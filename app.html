@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>App — OWASP VWAD</title>
+  <link rel="stylesheet" href="css/site.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="logo">
+        <span class="logo-owasp">OWASP</span>
+        <span class="logo-vwad">VWAD</span>
+      </a>
+      <nav class="site-nav">
+        <a href="index.html">Directory</a>
+        <a href="index.html#browse">Browse</a>
+        <a href="https://github.com/OWASP/www-project-vulnerable-web-applications-directory">GitHub</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+    <div id="app-view" class="container app-view hidden">
+      <!-- Filled by app-viewer.js -->
+    </div>
+    <div id="no-slug" class="container not-found hidden">
+      <h1>Select an application</h1>
+      <p><a href="index.html">Browse the directory</a></p>
+    </div>
+    <div id="loading" class="container loading">Loading…</div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        <a href="https://owasp.org">OWASP</a> ·
+        <a href="https://github.com/OWASP/www-project-vulnerable-web-applications-directory">Project repo</a> ·
+        <a href="index.html">Directory</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+  <script>
+    (function () {
+      // Use hash or query for slug so app pages work locally and on GitHub Pages
+      function getSlug() {
+        var hash = (location.hash || '').replace(/^#/, '');
+        if (hash) return hash;
+        var params = new URLSearchParams(location.search);
+        return params.get('slug') || params.get('name') || '';
+      }
+      window.VWAD.getPathSlug = function () { return getSlug(); };
+    })();
+  </script>
+  <script src="js/app-viewer.js"></script>
+  <script>
+    (function () {
+      window.addEventListener('hashchange', function () {
+        location.reload();
+      });
+    })();
+  </script>
+</body>
+</html>

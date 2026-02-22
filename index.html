@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OWASP Vulnerable Web Applications Directory</title>
+  <link rel="stylesheet" href="css/site.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="logo">
+        <span class="logo-owasp">OWASP</span>
+        <span class="logo-vwad">VWAD</span>
+      </a>
+      <nav class="site-nav">
+        <a href="#featured">Featured</a>
+        <a href="#browse">Browse &amp; search</a>
+        <a href="#about">About</a>
+        <a href="https://github.com/OWASP/www-project-vulnerable-web-applications-directory">GitHub</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+    <section class="hero">
+      <div class="container">
+        <h1>Vulnerable Web Applications Directory</h1>
+        <p class="hero-tagline">
+          A comprehensive registry of known vulnerable web and mobile applications
+          for legal security testing and training.
+        </p>
+      </div>
+    </section>
+
+    <section id="featured" class="section section-alt">
+      <div class="container">
+        <h2>Featured app</h2>
+        <p class="section-desc">A random pick from the directory — refresh the page for another.</p>
+        <div id="featured-app" class="featured-app">
+          <p class="muted">Loading…</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="browse" class="section">
+      <div class="container">
+        <h2>Browse &amp; search</h2>
+        <p class="section-desc">Search by name, author, technology, notes, or collection. Filter by collection or technology.</p>
+        <div class="search-controls">
+          <div class="search-row">
+            <label for="search-input" class="sr-only">Search</label>
+            <input type="search" id="search-input" class="search-input" placeholder="Search name, author, technology, notes…" autocomplete="off">
+            <label for="filter-collection" class="sr-only">Collection</label>
+            <select id="filter-collection" class="filter-select" aria-label="Filter by collection">
+              <option value="">All collections</option>
+              <option value="online">Online</option>
+              <option value="offline">Offline</option>
+              <option value="mobile">Mobile</option>
+              <option value="container">Container</option>
+              <option value="platform">Platform</option>
+            </select>
+            <label for="filter-technology" class="sr-only">Technology</label>
+            <input type="text" id="filter-technology" class="filter-tech" placeholder="Technology (e.g. PHP, Docker)" list="tech-suggestions">
+            <datalist id="tech-suggestions"></datalist>
+          </div>
+          <p id="result-count" class="result-count muted">—</p>
+        </div>
+        <div id="browse-results" class="browse-results">
+          <p class="muted">Loading…</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section section-alt">
+      <div class="container">
+        <h2>About VWAD</h2>
+        <p>
+          The OWASP Vulnerable Web Applications Directory (VWAD) Project is a well-maintained
+          registry of vulnerable web and mobile applications available for security professionals.
+          Use them for training, tool testing, and practice in realistic environments.
+        </p>
+        <p>
+          Applications are classified as <strong>Online</strong>, <strong>Offline</strong>,
+          <strong>Mobile</strong>, and <strong>Containerized</strong> (Docker, VMs, ISOs).
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        <a href="https://owasp.org">OWASP</a> ·
+        <a href="https://github.com/OWASP/www-project-vulnerable-web-applications-directory">Project repo</a> ·
+        <a href="https://owasp.org/www-project-vulnerable-web-applications-directory/">Main project page</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+  <script src="js/home.js"></script>
+  <script>
+    (function () {
+      function escapeHtml(s) {
+        if (s == null) return '';
+        var div = document.createElement('div');
+        div.textContent = s;
+        return div.innerHTML;
+      }
+      function getAppUrl(app) {
+        return 'app.html#' + (app._slug || '');
+      }
+      window.VWAD.getCollection().then(function (list) {
+        var techSet = {};
+        list.forEach(function (app) {
+          (app.technology || []).forEach(function (t) {
+            if (t && !techSet[t]) techSet[t] = true;
+          });
+        });
+        var dl = document.getElementById('tech-suggestions');
+        if (dl) Object.keys(techSet).sort().forEach(function (t) {
+          var o = document.createElement('option');
+          o.value = t;
+          dl.appendChild(o);
+        });
+        // Featured app: random pick
+        var featuredEl = document.getElementById('featured-app');
+        if (featuredEl && list.length) {
+          var app = list[Math.floor(Math.random() * list.length)];
+          var url = getAppUrl(app);
+          var notes = (app.notes || '').slice(0, 160);
+          if (app.notes && app.notes.length > 160) notes += '…';
+          var html = '<div class="featured-card">';
+          html += '<h3 class="featured-title"><a href="' + escapeHtml(url) + '">' + escapeHtml(app.name) + '</a></h3>';
+          if (app.author) html += '<p class="featured-meta">' + escapeHtml(app.author) + '</p>';
+          if (app.collection && app.collection.length) {
+            html += '<p class="featured-pills">' + app.collection.map(function (c) {
+              return '<span class="pill pill-collection">' + escapeHtml(c) + '</span>';
+            }).join(' ') + '</p>';
+          }
+          if (notes) html += '<p class="featured-notes">' + escapeHtml(notes) + '</p>';
+          html += '<p><a href="' + escapeHtml(url) + '" class="btn btn-primary">View details</a></p>';
+          html += '</div>';
+          featuredEl.innerHTML = html;
+        }
+      });
+    })();
+  </script>
+</body>
+</html>

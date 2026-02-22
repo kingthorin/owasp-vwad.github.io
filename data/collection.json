@@ -1,0 +1,3833 @@
+[
+	{
+		"url": "https://github.com/jerryhoff/WebGoat.NET",
+		"name": ".NET Goat",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"C#"
+		],
+		"author": "OWASP",
+		"notes": "Original main repo: https://github.com/jerryhoff/WebGoat.NET. Others: https://github.com/rapPayne/WebGoat.Net , https://github.com/jowasp/WebGoat.NET.",
+		"badge": "jerryhoff/WebGoat.NET",
+		"stars": 246,
+		"last_contributed": "2014-02-22T16:00:50Z"
+	},
+	{
+		"url": "http://testphp.vulnweb.com",
+		"name": "Acuart",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "http://testphp.vulnweb.com"
+			}
+		],
+		"author": "Acunetix",
+		"notes": "Art shopping"
+	},
+	{
+		"url": "https://github.com/dhammon/ai-goat",
+		"name": "AI-Goat",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Python",
+			"Vicuna LLM",
+			"LLaMa"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/dhammon/ai-goat"
+			}
+		],
+		"author": "fhammon, Guanwei Hu",
+		"notes": "AI Goat uses the Vicuna LLM which derived from Meta's LLaMA and coupled with ChatGPT's response data. When installing AI Goat the LLM binary is downloaded from third party locally on your computer.",
+		"badge": "dhammon/ai-goat",
+		"stars": 318,
+		"last_contributed": "2024-08-22T02:33:49Z"
+	},
+	{
+		"url": "https://github.com/t0thkr1s/allsafe-android",
+		"name": "Allsafe (Android)",
+		"collection": [
+			"mobile"
+		],
+		"technology": [
+			"Android",
+			"apk"
+		],
+		"author": "t0thkr1s",
+		"notes": "Intentionally vulnerable Android application.",
+		"badge": "t0thkr1s/allsafe-android",
+		"stars": 361,
+		"last_contributed": "2025-09-20T10:47:24Z"
+	},
+	{
+		"url": "https://demo.testfire.net/",
+		"name": "Altoro Mutual (AltoroJ)",
+		"collection": [
+			"online",
+			"offline"
+		],
+		"technology": [
+			"J2EE"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/HCL-TECH-SOFTWARE/AltoroJ"
+			},
+			{
+				"name": "live",
+				"url": "https://demo.testfire.net/"
+			}
+		],
+		"author": "HCL/IBM/Watchfire",
+		"notes": "Log in with jsmith/demo1234 or admin/admin",
+		"badge": "hclproducts/AltoroJ",
+		"stars": 282,
+		"last_contributed": "2024-07-23T11:07:27Z"
+	},
+	{
+		"url": "https://github.com/satishpatnayak/AndroGoat",
+		"name": "AndroGoat",
+		"collection": [
+			"mobile"
+		],
+		"technology": [
+			"Kotlin",
+			"Android"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/satishpatnayak/MyTest/blob/master/AndroGoat.apk"
+			}
+		],
+		"author": "satishpatnayak",
+		"badge": "satishpatnayak/AndroGoat",
+		"stars": 323,
+		"last_contributed": "2025-11-22T05:07:26Z"
+	},
+	{
+		"url": "https://github.com/digininja/authlab",
+		"name": "AuthLab",
+		"collection": [
+			"offline",
+			"online"
+		],
+		"technology": [
+			"GO"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://digi.ninja/projects/authlab.php"
+			},
+			{
+				"name": "live",
+				"url": "https://authlab.digi.ninja/"
+			}
+		],
+		"author": "digininja (Robin Wood)",
+		"badge": "digininja/authlab",
+		"stars": 98,
+		"last_contributed": "2023-01-30T09:47:54Z"
+	},
+	{
+		"url": "https://bigiamchallenge.com/challenge/1",
+		"name": "AWS CTF Challenge",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"AWS"
+		],
+		"author": "AWS Security Team",
+		"notes": "Capture-the-flag challenges for AWS"
+	},
+	{
+		"url": "https://github.com/RhinoSecurityLabs/cloudgoat",
+		"name": "AWS Infrastructure Pentest Lab",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"AWS"
+		],
+		"author": "AWS Security Team",
+		"notes": "Hands-on lab for AWS infrastructure pentesting",
+		"badge": "RhinoSecurityLabs/cloudgoat",
+		"stars": 3439,
+		"last_contributed": "2025-09-18T14:44:41Z"
+	},
+	{
+		"url": "https://wellarchitectedlabs.com/",
+		"name": "AWS Security Workshop",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"AWS"
+		],
+		"author": "AWS Security Team",
+		"notes": "Interactive workshop covering AWS security best practices"
+	},
+	{
+		"url": "https://www.brokenazure.cloud/",
+		"name": "Azure AD CTF Challenge",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"Azure"
+		],
+		"author": "Azure Security Team",
+		"notes": "Capture-the-flag challenges for Azure AD"
+	},
+	{
+		"url": "https://sourceforge.net/projects/bwapp/files/bee-box/",
+		"name": "Bee-Box",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"VMware"
+		]
+	},
+	{
+		"url": "https://github.com/psiinon/bodgeit",
+		"name": "BodgeIt Store",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/psiinon/bodgeit/releases/tag/1.4.0"
+			},
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/psiinon/bodgeit"
+			}
+		],
+		"author": "Simon Bennetts (psiinon)",
+		"badge": "psiinon/bodgeit",
+		"stars": 281,
+		"last_contributed": "2024-08-13T15:45:36Z"
+	},
+	{
+		"url": "https://sechow.com/bricks/index.html",
+		"name": "Bricks",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://sechow.com/bricks/download.html"
+			},
+			{
+				"name": "guide",
+				"url": "https://sechow.com/bricks/docs/"
+			}
+		],
+		"author": "OWASP"
+	},
+	{
+		"url": "https://github.com/NeuraLegion/brokencrystals#vulnerabilities-overview",
+		"name": "Broken Crystals",
+		"collection": [
+			"offline",
+			"online"
+		],
+		"technology": [
+			"React",
+			"Node",
+			"Swagger"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://brokencrystals.com/"
+			}
+		],
+		"author": "NeuraLegion",
+		"badge": "NeuraLegion/brokencrystals",
+		"stars": 182,
+		"last_contributed": "2026-02-12T13:08:41Z"
+	},
+	{
+		"url": "https://github.com/attacker-codeninja/BugGPT",
+		"name": "BugGPT",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Python",
+			"Flask",
+			"OpenAI API",
+			"Github Actions"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/attacker-codeninja/BugGPT"
+			},
+			{
+				"name": "guide",
+				"url": "https://github.com/attacker-codeninja/BugGPT#readme"
+			}
+		],
+		"author": "attacker-codeninja",
+		"notes": "BugGPT is an intentionally vulnerable application generator for educational security training purposes.",
+		"badge": "attacker-codeninja/BugGPT",
+		"stars": 0,
+		"last_contributed": "2024-10-23T00:57:41Z"
+	},
+	{
+		"url": "https://sourceforge.net/projects/thebutterflytmp/files/ButterFly%20Project/",
+		"name": "Butterfly Security Project",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/thebutterflytmp/files/"
+			}
+		],
+		"notes": "Last updated in 2008"
+	},
+	{
+		"url": "http://www.itsecgames.com/",
+		"name": "bWAPP",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/bwapp/files/"
+			},
+			{
+				"name": "guide",
+				"url": "https://itsecgames.blogspot.com/2013/01/bwapp-installation.html"
+			}
+		]
+	},
+	{
+		"url": "https://labs.caido.io/",
+		"name": "Caido labs",
+		"collection": [
+			"platform"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://labs.caido.io/"
+			}
+		],
+		"author": "Caido",
+		"notes": "Caido Labs provides interactive security testing challenges and vulnerable web applications for learning and practicing web security skills."
+	},
+	{
+		"url": "https://github.com/cider-security-research/cicd-goat",
+		"name": "CI/CD Goat",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"Gitea",
+			"Jenkins",
+			"GitLab",
+			"Docker"
+		],
+		"author": "Cider",
+		"notes": "Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, capture the flags.",
+		"badge": "cider-security-research/cicd-goat",
+		"stars": 2199,
+		"last_contributed": "2024-07-11T13:31:30Z"
+	},
+	{
+		"url": "https://github.com/RhinoSecurityLabs/cloudgoat",
+		"name": "CloudGoat",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"Python",
+			"AWS"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://medium.com/@rzepsky/playing-with-cloudgoat-part-1-hacking-aws-ec2-service-for-privilege-escalation-4c42cc83f9da"
+			},
+			{
+				"name": "announcement",
+				"url": "https://rhinosecuritylabs.com/aws/cloudgoat-vulnerable-design-aws-environment/"
+			},
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/rhinosecuritylabs/cloudgoat"
+			}
+		],
+		"author": "Rhino Security Labs",
+		"badge": "RhinoSecurityLabs/cloudgoat",
+		"stars": 3482,
+		"last_contributed": "2026-02-12T23:05:15Z"
+	},
+	{
+		"url": "https://owasp.org/www-project-crapi/",
+		"name": "crAPI",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"Go",
+			"nginx",
+			"REST",
+			"Docker"
+		],
+		"references": [
+			{
+				"name": "downloads",
+				"url": "https://github.com/OWASP/crAPI"
+			}
+		],
+		"author": "OWASP",
+		"notes": "OWASP crAPI (Completely Ridiculous API) is an intentionally vulnerable API designed to help security teams practice API security testing including BOLA, BFLA, mass assignment, and authentication flaws.",
+		"badge": "OWASP/crAPI",
+		"stars": 1427,
+		"last_contributed": "2026-02-15T20:17:55Z"
+	},
+	{
+		"url": "https://github.com/SpiderLabs/CryptOMG",
+		"name": "CryptOMG",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://isc.sans.edu/diary/Modern+Web+Application+Penetration+Testing+Hash+Length+Extension+Attacks/22792"
+			}
+		],
+		"author": "SpiderLabs",
+		"badge": "SpiderLabs/CryptOMG",
+		"stars": 193,
+		"last_contributed": "2015-06-25T17:23:47Z"
+	},
+	{
+		"url": "https://ctflearn.com/",
+		"name": "CTFLearn",
+		"collection": [
+			"online"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://ctflearn.com/"
+			}
+		],
+		"author": "@ctflearn"
+	},
+	{
+		"url": "https://github.com/convisolabs/CVWA",
+		"name": "CVWA - Conviso Vulnerable Web Application",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/convisolabs/CVWA"
+			}
+		],
+		"author": "Conviso AppSec",
+		"badge": "convisolabs/CVWA",
+		"stars": 63,
+		"last_contributed": "2025-07-16T15:30:42Z"
+	},
+	{
+		"url": "https://cyberscavengerhunt.com",
+		"name": "Cyber Scavenger Hunt",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"Javacript",
+			"React"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/arthurakay/cyberscavengerhunt"
+			},
+			{
+				"name": "live",
+				"url": "https://cyberscavengerhunt.com"
+			}
+		],
+		"author": "Arthur Kay",
+		"notes": "A simple scavenger hunt to learn about pentesting a website or web application.",
+		"badge": "arthurakay/cyberscavengerhunt",
+		"stars": 15,
+		"last_contributed": "2022-07-19T19:37:43Z"
+	},
+	{
+		"url": "https://github.com/thedeadrobots/bwa_cyclone_transfers",
+		"name": "Cyclone Transfers",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Ruby on Rails"
+		],
+		"badge": "thedeadrobots/bwa_cyclone_transfers",
+		"stars": 5,
+		"last_contributed": "2013-10-17T18:09:13Z"
+	},
+	{
+		"url": "https://github.com/Checkmarx/capital",
+		"name": "c{api}tal",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"Docker",
+			"postgres",
+			"OpenAPI",
+			"Python"
+		],
+		"author": "Checkmarx",
+		"badge": "Checkmarx/capital",
+		"stars": 322,
+		"last_contributed": "2024-04-05T09:13:35Z"
+	},
+	{
+		"url": "https://github.com/stamparm/DSVW",
+		"name": "Damn Small Vulnerable Web (DSVW)",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Python"
+		],
+		"author": "Miroslav Stampar",
+		"badge": "stamparm/DSVW",
+		"stars": 857,
+		"last_contributed": "2025-12-21T15:44:20Z"
+	},
+	{
+		"url": "https://www.dvaib.com",
+		"name": "Damn Vulnerable AI Bank (DVAIB)",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"React",
+			"LLM",
+			"Transformers",
+			"Vision Language Models",
+			"Document Parsers",
+			"Python",
+			"Vector DB",
+			"PostgreSQL"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://www.dvaib.com"
+			}
+		],
+		"author": "Subhash Dasyam",
+		"notes": "Hands-on AI security training platform for prompt injection and jailbreaking, realistic attack scenarios, achievements, and leaderboard."
+	},
+	{
+		"url": "https://github.com/AvalZ/DVAS",
+		"name": "Damn Vulnerable Application Scanner (DVAS)",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://ceur-ws.org/Vol-2940/paper36.pdf"
+			},
+			{
+				"name": "announcement",
+				"url": "https://avalz.it/research/metasploit-pro-xss-to-rce/"
+			}
+		],
+		"author": "Andrea Valenza, Enrico Russo, Gabriele Costa",
+		"notes": "An intentionally vulnerable web application scanner",
+		"badge": "AvalZ/DVAS",
+		"stars": 6,
+		"last_contributed": "2021-04-25T10:09:26Z"
+	},
+	{
+		"url": "https://github.com/rewanthtammana/Damn-Vulnerable-Bank",
+		"name": "Damn Vulnerable Bank",
+		"collection": [
+			"mobile"
+		],
+		"technology": [
+			"android"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://rewanthtammana.com/damn-vulnerable-bank/index.html"
+			}
+		],
+		"author": "Rewanth Tammana, Akshansh Jaiswal, Hrushikesh Kakade",
+		"badge": "rewanthtammana/Damn-Vulnerable-Bank",
+		"stars": 734,
+		"last_contributed": "2023-12-13T07:48:44Z"
+	},
+	{
+		"url": "https://github.com/appsecco/dvcsharp-api",
+		"name": "Damn Vulnerable C# Application (API)",
+		"collection": [
+			"container",
+			"offline"
+		],
+		"technology": [
+			"Docker",
+			"C#",
+			"dotnet"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/appsecco/dvcsharp-api/tree/master/documentation-dvcsharp-book"
+			}
+		],
+		"author": "Appsecco ",
+		"badge": "appsecco/dvcsharp-api",
+		"stars": 79,
+		"last_contributed": "2022-12-07T07:14:10Z"
+	},
+	{
+		"url": "https://github.com/theredguild/damn-vulnerable-defi",
+		"name": "Damn Vulnerable DeFi",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"DeFi",
+			"solidity"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://www.damnvulnerabledefi.xyz/"
+			}
+		],
+		"author": "The Red Guild",
+		"badge": "theredguild/damn-vulnerable-defi",
+		"notes": "Perhaps the most sophisticated vulnerable set of Solidity smart contracts ever witnessed, it features flashloans, price oracles, governance, NFTs, DEXs, lending pools, smart contract wallets, timelocks, vaults, meta-transactions, token distributions, upgradeability and more.",
+		"stars": 1279,
+		"last_contributed": "2025-03-21T11:25:21Z"
+	},
+	{
+		"url": "https://github.com/njmulsqb/DVEA/",
+		"name": "Damn Vulnerable Electron App (DVEA)",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"ElectronJS"
+		],
+		"references": [
+			{
+				"name": "announcement",
+				"url": "https://njmulsqb.github.io/2023/01/03/releasing-DVEA.html"
+			},
+			{
+				"name": "download",
+				"url": "https://github.com/njmulsqb/DVEA/"
+			}
+		],
+		"author": "Najam Ul Saqib (cybersoldier)",
+		"notes": "A deliberately insecure ElectronJS application",
+		"badge": "njmulsqb/DVEA",
+		"stars": 17,
+		"last_contributed": "2026-02-12T08:56:24Z"
+	},
+	{
+		"url": "https://github.com/LunaM00n/File-Upload-Lab",
+		"name": "Damn Vulnerable File Upload - DVFU",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"author": "Thin Ba Shane (@art0flunam00n)",
+		"badge": "LunaM00n/File-Upload-Lab",
+		"stars": 102,
+		"last_contributed": "2018-05-26T09:32:38Z"
+	},
+	{
+		"url": "https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service",
+		"name": "Damn Vulnerable Functions as a Service (DVFaaS)",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Python",
+			"AWS"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://www.slideshare.net/slideshow/an-attackers-view-of-serverless-and-graphql-apps-abhay-bhargav-appsec-california-2019/129289800"
+			}
+		],
+		"author": "we45 (Abhay Bhargav)",
+		"badge": "we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service",
+		"stars": 136,
+		"last_contributed": "2019-01-23T15:17:54Z"
+	},
+	{
+		"url": "https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application",
+		"name": "Damn Vulnerable GraphQL Application (DVGA)",
+		"collection": [
+			"container",
+			"offline"
+		],
+		"technology": [
+			"Python",
+			"HTML",
+			"Javascript",
+			"GraphQL",
+			"SQLAlchemy",
+			"docker"
+		],
+		"author": "Dolev Farhi <dolev@lethalbit.com>, Connor McKinnon",
+		"badge": "dolevf/Damn-Vulnerable-GraphQL-Application",
+		"stars": 1674,
+		"last_contributed": "2025-05-24T16:37:37Z"
+	},
+	{
+		"url": "https://github.com/LBartolini/DVI",
+		"name": "Damn Vulnerable Infrastructure (DVI)",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP",
+			"Java",
+			"MySQL",
+			"SCADA",
+			"Docker"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/LBartolini/DVI/blob/main/GUIDE.md"
+			},
+			{
+				"name": "download",
+				"url": "https://github.com/LBartolini/DVI"
+			}
+		],
+		"author": "Lorenzo Bartolini, Gabriele Costa",
+		"notes": "A fully simulated and self-hosted Damn Vulnerable Infrastructure with routers, subnetworks, Scada and many other vulnerable containers. It simulates an Energy Management System inside a University Campus.",
+		"badge": "LBartolini/DVI",
+		"stars": 7,
+		"last_contributed": "2025-11-11T09:13:08Z"
+	},
+	{
+		"url": "https://github.com/prateek147/DVIA-v2",
+		"name": "Damn Vulnerable iOS App (DVIA-v2)",
+		"collection": [
+			"mobile"
+		],
+		"technology": [
+			"iOS",
+			"swift",
+			"xcode"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/prateek147/DVIA-v2/releases"
+			}
+		],
+		"author": "prateekg147",
+		"notes": "An iOS application that is damn vulnerable.",
+		"badge": "prateek147/DVIA-v2",
+		"stars": 1060,
+		"last_contributed": "2024-03-29T08:01:43Z"
+	},
+	{
+		"url": "https://github.com/ReversecLabs/damn-vulnerable-llm-agent",
+		"name": "Damn Vulnerable LLM Agent",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"Python",
+			"docker",
+			"LLM",
+			"ollama",
+			"Agent"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/ReversecLabs/damn-vulnerable-llm-agent?tab=readme-ov-file#possible-payload-solutions-spolier-alert"
+			}
+		],
+		"author": "Reversec Labs",
+		"badge": "ReversecLabs/damn-vulnerable-llm-agent",
+		"stars": 363,
+		"last_contributed": "2025-06-25T13:58:42Z"
+	},
+	{
+		"url": "https://github.com/isp1r0/DVNA",
+		"name": "Damn Vulnerable Node Application - DVNA",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Node.js"
+		],
+		"author": "Claudio Lacayo",
+		"badge": "isp1r0/DVNA",
+		"stars": 20,
+		"last_contributed": "2015-12-22T14:34:30Z"
+	},
+	{
+		"url": "https://github.com/appsecco/dvna",
+		"name": "Damn Vulnerable NodeJS Application - DVNA",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Node.js"
+		],
+		"author": "@appsecco",
+		"notes": "Different project from the old DVNA",
+		"badge": "appsecco/dvna",
+		"stars": 758,
+		"last_contributed": "2023-11-08T12:11:49Z"
+	},
+	{
+		"url": "https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications",
+		"name": "Damn Vulnerable OAuth 2.0 Applications",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"MEAN",
+			"Docker",
+			"OAuth 2.0"
+		],
+		"author": "Koen Buyens",
+		"notes": "A set of vulnerable applications which show Oauth2.0 vulnerabilities.",
+		"badge": "koenbuyens/Vulnerable-OAuth-2.0-Applications",
+		"stars": 325,
+		"last_contributed": "2018-09-15T17:12:22Z"
+	},
+	{
+		"url": "https://github.com/anxolerd/dvpwa",
+		"name": "Damn Vulnerable Python Web Application - DVPWA",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Python",
+			"Docker"
+		],
+		"author": "Oleksandr Kovalchuk",
+		"badge": "anxolerd/dvpwa",
+		"stars": 185,
+		"last_contributed": "2022-11-04T11:57:00Z"
+	},
+	{
+		"url": "https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game",
+		"name": "Damn Vulnerable Restaurant",
+		"collection": [
+			"offline"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://devsec-blog.com/2024/04/security-code-challenge-for-developers-ethical-hackers-the-damn-vulnerable-restaurant/"
+			}
+		],
+		"technology": [
+			"Python",
+			"Docker"
+		],
+		"author": "theowni",
+		"notes": "Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.",
+		"badge": "theowni/Damn-Vulnerable-Restaurant-API-Game",
+		"stars": 893,
+		"last_contributed": "2026-01-03T14:11:08Z"
+	},
+	{
+		"url": "https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game",
+		"name": "Damn Vulnerable RESTaurant (DV-REST)",
+		"collection": [
+			"online",
+			"container"
+		],
+		"technology": [
+			"Python",
+			"FastAPI",
+			"PostgreSQL",
+			"Docker",
+			"Docker Compose",
+			"Codespaces",
+			"REST API"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game"
+			}
+		],
+		"author": "theowni",
+		"notes": "An intentionally vulnerable API training game for developers, ethical hackers, and security engineers. Designed as a CTF-style playground to learn, detect, exploit, and remediate API security vulnerabilities using a FastAPI-based application. Supports local Docker deployment and online execution via GitHub Codespaces.",
+		"badge": "theowni/Damn-Vulnerable-RESTaurant-API-Game",
+		"stars": 893,
+		"last_contributed": "2026-01-03T14:11:08Z"
+	},
+	{
+		"url": "https://github.com/OWASP/DVSA",
+		"name": "Damn Vulnerable Serverless App (DVSA)",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Node",
+			"AWS",
+			"Azure"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/OWASP/DVSA/tree/master/CONTENT/AWS/LESSONS"
+			}
+		],
+		"author": "Protego Labs",
+		"badge": "OWASP/DVSA",
+		"stars": 542,
+		"last_contributed": "2023-09-12T11:04:54Z"
+	},
+	{
+		"url": "https://github.com/silentsignal/damn-vulnerable-stateful-web-app",
+		"name": "Damn Vulnerable Stateful WebApp",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://www.sans.org/white-papers/36637"
+			}
+		],
+		"author": "dnet",
+		"badge": "silentsignal/damn-vulnerable-stateful-web-app",
+		"stars": 14,
+		"last_contributed": "2015-12-04T15:52:13Z"
+	},
+	{
+		"url": "https://github.com/digininja/DVWA",
+		"name": "Damn Vulnerable Web Application - DVWA",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/digininja/DVWA"
+			},
+			{
+				"name": "docker",
+				"url": "https://github.com/digininja/DVWA#docker"
+			}
+		],
+		"author": "RandomStorm",
+		"badge": "ethicalhack3r/DVWA",
+		"stars": 12611,
+		"last_contributed": "2026-02-13T19:27:10Z"
+	},
+	{
+		"url": "https://github.com/snoopysecurity/dvws-node",
+		"name": "Damn Vulnerable Web Services",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Web Services"
+		],
+		"author": "snoopysecurity",
+		"badge": "snoopysecurity/dvws-node",
+		"stars": 457,
+		"last_contributed": "2021-12-06T00:15:00Z"
+	},
+	{
+		"url": "https://github.com/interference-security/DVWS",
+		"name": "Damn Vulnerable Web Sockets",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Web Sockets"
+		],
+		"author": "@appsecco",
+		"badge": "interference-security/DVWS",
+		"stars": 356,
+		"last_contributed": "2025-12-19T17:00:57Z"
+	},
+	{
+		"url": "https://defendtheweb.net/",
+		"name": "Defend the Web",
+		"collection": [
+			"online"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://defendtheweb.net/"
+			}
+		],
+		"author": "Luke [flabbyrabbit]",
+		"notes": "Formerly HackThis"
+	},
+	{
+		"url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+		"name": "DeFi Hack Labs",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"DeFi",
+			"solidity",
+			"etherium",
+			"foundry"
+		],
+		"references": [
+			{
+				"name": "announcement",
+				"url": "https://x.com/pashov/status/1647586395823669248"
+			}
+		],
+		"author": "SunSec",
+		"badge": "SunWeb3Sec/DeFiHackLabs",
+		"notes": "Reproduce DeFi hacked incidents using Foundry.",
+		"stars": 6410,
+		"last_contributed": "2026-02-18T10:47:22Z"
+	},
+	{
+		"url": "https://github.com/payatu/diva-android",
+		"name": "DIVA Android",
+		"collection": [
+			"mobile"
+		],
+		"technology": [
+			"Android",
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/payatu/diva-android/releases"
+			},
+			{
+				"name": "guide",
+				"url": "https://payatu.com/blog/damn-insecure-and-vulnerable-app-diva/"
+			}
+		],
+		"author": "Payatu",
+		"notes": "DIVA (Damn Insecure and Vulnerable App) is an intentionally vulnerable Android application designed to help security professionals and developers learn about Android security vulnerabilities.",
+		"badge": "payatu/diva-android",
+		"stars": 1087,
+		"last_contributed": "2016-01-15T10:13:59Z"
+	},
+	{
+		"url": "https://github.com/snsttr/diwa",
+		"name": "DIWA - Deliberately Insecure Web Application",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"PHP",
+			"Docker"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/snsttr/diwa/tree/master/docs"
+			}
+		],
+		"author": "Tim Steufmehl",
+		"notes": "A Deliberately Insecure Web Application",
+		"badge": "snsttr/diwa",
+		"stars": 71,
+		"last_contributed": "2020-01-09T16:25:31Z"
+	},
+	{
+		"url": "https://github.com/Contrast-Security-OSS/DjanGoat",
+		"name": "DjanGoat",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Python",
+			"Django",
+			"MySQL"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/Contrast-Security-OSS/DjanGoat/blob/master/docs/home.md"
+			}
+		],
+		"author": "Contrast Security",
+		"notes": "Intentionally vulnerable Django application inspired by RailsGoat, designed as an internal employee portal and containing OWASP Top 10 vulnerabilities for educational use.",
+		"badge": "Contrast-Security-OSS/DjanGoat",
+		"stars": 75,
+		"last_contributed": "2025-10-08T19:43:30Z"
+	},
+	{
+		"url": "https://github.com/red-and-black/DjangoGoat",
+		"name": "DjangoGoat",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Python",
+			"Django"
+		],
+		"author": "Red and Black",
+		"badge": "red-and-black/DjangoGoat",
+		"stars": 46,
+		"last_contributed": "2019-08-18T19:25:23Z"
+	},
+	{
+		"url": "https://duck-store.escape.tech/",
+		"name": "Duck Store",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"React",
+			"FastAPI"
+		],
+		"references": [
+			{
+				"name": "announcement",
+				"url": "https://escape.tech/blog/duck-store-vulnerable-app/"
+			},
+			{
+				"name": "live",
+				"url": "https://duck-store.escape.tech/"
+			}
+		],
+		"author": "DonAsako",
+		"notes": "Duck Store is an intentionally vulnerable web app for training purposes on how to find classic and business logic vulns dedicated to developers, ethical hackers, and security engineers."
+	},
+	{
+		"url": "https://github.com/snoopysecurity/dvws-node",
+		"name": "dvws-node",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"Web Services",
+			"NodeJS"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/snoopysecurity/dvws-node/wiki"
+			}
+		],
+		"author": "@snoopysecurity",
+		"badge": "snoopysecurity/dvws-node",
+		"stars": 503,
+		"last_contributed": "2026-01-23T22:58:47Z"
+	},
+	{
+		"url": "https://github.com/k-tamura/easybuggy",
+		"name": "EasyBuggy",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/k-tamura/easybuggy/releases"
+			},
+			{
+				"name": "guide",
+				"url": "https://github.com/k-tamura/easybuggy/wiki"
+			}
+		],
+		"author": "Kohei Tamura",
+		"badge": "k-tamura/easybuggy",
+		"stars": 257,
+		"last_contributed": "2026-01-11T15:02:25Z"
+	},
+	{
+		"url": "https://github.com/OWASP/www-project-eks-goat",
+		"name": "EKS Goat",
+		"collection": [
+			"container",
+			"offline"
+		],
+		"technology": [
+			"Kubernetes",
+			"AWS",
+			"EKS"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://eksgoat.kubernetesvillage.com/"
+			},
+			{
+				"name": "download",
+				"url": "https://github.com/OWASP/www-project-eks-goat"
+			}
+		],
+		"author": "OWASP",
+		"notes": "AWS EKS Security Lab and activity.",
+		"badge": "OWASP/www-project-eks-goat",
+		"stars": 40,
+		"last_contributed": "2026-02-20T19:27:57Z"
+	},
+	{
+		"url": "https://github.com/Semperis/EntraGoat",
+		"name": "EntraGoat",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"Azure",
+			"Entra ID"
+		],
+		"author": "Azure Security Team",
+		"notes": "A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.",
+		"badge": "semperis/EntraGoat",
+		"stars": 893,
+		"last_contributed": "2026-01-15T12:54:21Z"
+	},
+	{
+		"url": "https://sourceforge.net/projects/exploitcoilvuln/files/",
+		"name": "Exploit.co.il Vuln Web App",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"VMware"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/exploitcoilvuln/files/"
+			}
+		]
+	},
+	{
+		"url": "https://github.com/vegabird/xvna",
+		"name": "Extreme Vulnerable Node Application",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"NodeJS"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/vegabird/xvna"
+			}
+		],
+		"author": "vegabird",
+		"badge": "vegabird/xvna",
+		"stars": 95,
+		"last_contributed": "2018-02-08T10:45:53Z"
+	},
+	{
+		"url": "http://ffuf.me/",
+		"name": "FFUF.me",
+		"collection": [
+			"online",
+			"offline",
+			"container"
+		],
+		"technology": [
+			"PHP",
+			"Docker"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/BuildHackSecure/ffufme"
+			},
+			{
+				"name": "live",
+				"url": "http://ffuf.me/"
+			}
+		],
+		"author": "adamtlangley",
+		"notes": "Target practice for ffuf",
+		"badge": "BuildHackSecure/ffufme",
+		"stars": 70,
+		"last_contributed": "2021-08-10T22:13:44Z"
+	},
+	{
+		"url": "https://github.com/Orange-Cyberdefense/GOAD",
+		"name": "Game of Active Directory",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"Windows",
+			"Active Directory"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://mayfly277.github.io/categories/ad/"
+			}
+		],
+		"author": "Orange-Cyberdefense",
+		"notes": "Requires a considerably powerful system",
+		"badge": "Orange-Cyberdefense/GOAD",
+		"stars": 7473,
+		"last_contributed": "2025-07-16T16:54:53Z"
+	},
+	{
+		"url": "https://sourceforge.net/projects/null-gameover/",
+		"name": "GameOver",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"VMware"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/null-gameover/files/"
+			}
+		]
+	},
+	{
+		"url": "https://gandalf.lakera.ai/",
+		"name": "Gandalf",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"AI",
+			"LLM",
+			"Prompt Injection"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://gandalf.lakera.ai/"
+			},
+			{
+				"name": "announcement",
+				"url": "https://www.lakera.ai/blog/who-is-gandalf"
+			}
+		],
+		"author": "Lakera",
+		"notes": "A game designed to challenge your ability to interact with large language models (LLMs) and test prompt injection skills. Your goal is to trick Gandalf into revealing the secret password."
+	},
+	{
+		"url": "https://github.com/InsiderPhD/Generic-University",
+		"name": "Generic-University",
+		"collection": [
+			"container",
+			"offline"
+		],
+		"technology": [
+			"PHP",
+			"docker",
+			"API",
+			"GraphQL",
+			"MySQL",
+			"Laravel"
+		],
+		"author": " Katie Paxton-Fear ",
+		"badge": "InsiderPhD/Generic-University",
+		"stars": 418,
+		"last_contributed": "2022-11-14T19:01:24Z"
+	},
+	{
+		"url": "https://ginandjuice.shop/",
+		"name": "Gin & Juice Shop",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"JavaScript",
+			"AngularJS",
+			"React",
+			"CSRF"
+		],
+		"references": [
+			{
+				"name": "announcement",
+				"url": "https://portswigger.net/blog/gin-and-juice-shop-put-your-scanner-to-the-test"
+			},
+			{
+				"name": "live",
+				"url": "https://ginandjuice.shop/"
+			}
+		],
+		"author": "PortSwigger",
+		"notes": "A hosted always-online demo app with realistic technologies."
+	},
+	{
+		"url": "https://github.com/Checkmarx/Goatlin/",
+		"name": "Goatlin",
+		"collection": [
+			"mobile"
+		],
+		"technology": [
+			"Kotlin",
+			"Android",
+			"API",
+			"REST"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://checkmarx.github.io/Kotlin-SCP/"
+			}
+		],
+		"author": "Checkmarx",
+		"badge": "Checkmarx/Goatlin",
+		"stars": 36,
+		"last_contributed": "2022-01-06T17:32:23Z"
+	},
+	{
+		"url": "https://github.com/snyk-labs/nodejs-goof",
+		"name": "Goof",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"NodeJS"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://snyk.io/test/github/snyk/goof"
+			},
+			{
+				"name": "guide",
+				"url": "http://dreamerslab.com/blog/en/write-a-todo-list-with-express-and-mongodb/"
+			}
+		],
+		"author": "Snyk",
+		"notes": "online - via Heroku deploy",
+		"badge": "snyk-labs/nodejs-goof",
+		"stars": 535,
+		"last_contributed": "2023-05-24T00:11:27Z"
+	},
+	{
+		"url": "https://github.com/google/security-testbeds",
+		"name": "Google Security Testbeds",
+		"collection": [
+			"platform",
+			"container"
+		],
+		"technology": [
+			"Docker"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/google/security-testbeds"
+			}
+		],
+		"author": "Google",
+		"notes": "This project aims to provide a central repository for testbeds contents usable to assert the quality and functionality of security scanners. This includes 0-day and 1-day scanning capabilities. Covering various CVEs, weak credentials across various services, exposed UI for various services.",
+		"badge": "google/security-testbeds",
+		"stars": 58,
+		"last_contributed": "2026-02-18T16:41:06Z"
+	},
+	{
+		"url": "https://github.com/rootxjs/grpc-goat",
+		"name": "gRPC Goat",
+		"collection": [
+			"container",
+			"offline"
+		],
+		"technology": [
+			"Go",
+			"gRPC",
+			"Docker"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/rootxjs/grpc-goat"
+			},
+			{
+				"name": "guide",
+				"url": "https://rootxjs.github.io/blog/grpc-goat/"
+			}
+		],
+		"author": "rootxjs",
+		"notes": "Vulnerable by Design lab for learning and practicing gRPC security.",
+		"badge": "rootxjs/grpc-goat",
+		"stars": 51,
+		"last_contributed": "2025-09-22T13:28:09Z"
+	},
+	{
+		"url": "http://google-gruyere.appspot.com/",
+		"name": "Gruyere",
+		"collection": [
+			"offline",
+			"online"
+		],
+		"technology": [
+			"Python"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://google-gruyere.appspot.com/gruyere-code.zip"
+			},
+			{
+				"name": "live",
+				"url": "http://google-gruyere.appspot.com/"
+			}
+		],
+		"author": "Google"
+	},
+	{
+		"url": "https://hacking-lab.com/events/",
+		"name": "Hacking Lab",
+		"collection": [
+			"online"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://hacking-lab.com/events/"
+			}
+		],
+		"author": "Hacking Lab"
+	},
+	{
+		"url": "https://app.hackinghub.io",
+		"name": "HackingHub Labs",
+		"collection": [
+			"platform"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://app.hackinghub.io/"
+			}
+		],
+		"author": "HackingHub",
+		"notes": "Carefully crafted environments based on real vulnerabilities, released pentests and bug bounty findings."
+	},
+	{
+		"url": "https://www.hackthebox.com",
+		"name": "HackTheBox",
+		"collection": [
+			"online",
+			"platform"
+		],
+		"technology": [
+			"Various"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://www.hackthebox.com"
+			}
+		],
+		"author": "HackTheBox",
+		"notes": "Online platform featuring vulnerable machines and challenges for penetration testing practice. Includes retired machines, active challenges, and Pro Labs."
+	},
+	{
+		"url": "https://www.hackthissite.org",
+		"name": "HackThisSite",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"PHP",
+			"Perl",
+			"JavaScript",
+			"API",
+			"Binaries"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://www.hackthissite.org"
+			}
+		],
+		"author": "HackThisSite Staff",
+		"notes": "Always-on CTF challenges including Basic, Realistic, Application, Steganography, and many others."
+	},
+	{
+		"url": "https://hackxor.net/",
+		"name": "Hackxor",
+		"collection": [
+			"offline",
+			"online",
+			"container"
+		],
+		"technology": [
+			"VMware"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/hackxor/files/"
+			},
+			{
+				"name": "guide",
+				"url": "https://hackxor.sourceforge.net/cgi-bin/hints.pl"
+			},
+			{
+				"name": "live",
+				"url": "https://hackxor.net"
+			}
+		],
+		"author": "albinowax",
+		"notes": "First 2 levels online, rest offline. Web application hacking game via missions, based on real vulnerabilities."
+	},
+	{
+		"url": "https://labs.hackxpert.com/",
+		"name": "HackXpert",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://www.youtube.com/c/TheXSSrat"
+			},
+			{
+				"name": "live",
+				"url": "https://labs.hackxpert.com/"
+			}
+		],
+		"author": "theXSSrat"
+	},
+	{
+		"url": "https://hack-yourself-first.com/",
+		"name": "HackYourselfFirst",
+		"collection": [
+			"online"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://www.troyhunt.com/hack-yourself-first-how-to-go-on/"
+			},
+			{
+				"name": "live",
+				"url": "https://hack-yourself-first.com/"
+			}
+		],
+		"author": "Troy Hunt"
+	},
+	{
+		"url": "https://github.com/iknowjason/hammer",
+		"name": "Hammer",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Ruby on Rails"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/iknowjason/hammer"
+			}
+		],
+		"author": "iknowjason",
+		"notes": "Includes manual build and docker options.",
+		"badge": "iknowjason/hammer",
+		"stars": 21,
+		"last_contributed": "2022-04-26T20:51:05Z"
+	},
+	{
+		"url": "https://github.com/omerlh/insecure-deserialisation-net-poc",
+		"name": "insecure-deserialisation-net-poc",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			".NET",
+			"JSON",
+			"yoserial.NET"
+		],
+		"author": "Omer Levi Hevroni",
+		"notes": "A small webserver vulnerable to insecure deserialization",
+		"badge": "omerlh/insecure-deserialisation-net-poc",
+		"stars": 20,
+		"last_contributed": "2017-11-30T10:59:08Z"
+	},
+	{
+		"url": "https://github.com/dineshshetty/Android-InsecureBankv2",
+		"name": "InsecureBankv2",
+		"collection": [
+			"mobile"
+		],
+		"technology": [
+			"Android",
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/dineshshetty/Android-InsecureBankv2/releases"
+			}
+		],
+		"author": "Dinesh Shetty",
+		"notes": "Vulnerable Android application for security enthusiasts and developers to learn about Android insecurities. Showcases various security vulnerabilities in Android banking applications.",
+		"badge": "dineshshetty/Android-InsecureBankv2",
+		"stars": 1404,
+		"last_contributed": "2019-11-21T15:29:07Z"
+	},
+	{
+		"url": "https://github.com/Sjord/jwtdemo/",
+		"name": "jwtdemo",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://www.sjoerdlangkemper.nl/2016/09/28/attacking-jwt-authentication/"
+			}
+		],
+		"author": "Sjoerd Langkemper (Sjord)",
+		"notes": "Practice hacking JWT tokens.",
+		"badge": "Sjord/jwtdemo",
+		"stars": 115,
+		"last_contributed": "2022-09-08T10:49:42Z"
+	},
+	{
+		"url": "https://k8slanparty.com/",
+		"name": "Kubernetes CTF Challenge",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"Kubernetes"
+		],
+		"author": "Kubernetes Security Team",
+		"notes": "Capture-the-flag challenges for Kubernetes"
+	},
+	{
+		"url": "https://github.com/raesene/kube_security_lab",
+		"name": "Kubernetes Infrastructure Pentest Lab",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"Kubernetes",
+			"docker",
+			"ansible"
+		],
+		"author": "Kubernetes Security Team",
+		"notes": "Hands-on lab for Kubernetes infrastructure pentesting",
+		"badge": "raesene/kube_security_lab",
+		"stars": 270,
+		"last_contributed": "2026-01-14T08:57:49Z"
+	},
+	{
+		"url": "https://github.com/madhuakula/kubernetes-goat",
+		"name": "Kubernetes Security Workshop",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"Kubernetes"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://madhuakula.com/kubernetes-goat/"
+			}
+		],
+		"author": "Kubernetes Security Team",
+		"notes": "Interactive workshop covering Kubernetes security best practices",
+		"badge": "madhuakula/kubernetes-goat",
+		"stars": 5416,
+		"last_contributed": "2025-11-18T15:14:10Z"
+	},
+	{
+		"url": "https://sourceforge.net/projects/lampsecurity/",
+		"name": "LAMPSecurity",
+		"collection": [
+			"container",
+			"offline"
+		],
+		"technology": [
+			"VMware",
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/lampsecurity/files/"
+			}
+		]
+	},
+	{
+		"url": "https://github.com/christophetd/log4shell-vulnerable-app",
+		"name": "Log4Shell sample vulnerable application",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"Spring Boot",
+			"Log4j",
+			"Java"
+		],
+		"author": "Christophe Tafani-Dereeper, Gerard Arall, rayhan0x01 Rayhan Ahmed",
+		"notes": "CVE-2021-44228",
+		"badge": "christophetd/log4shell-vulnerable-app",
+		"stars": 1138,
+		"last_contributed": "2022-12-14T08:48:45Z"
+	},
+	{
+		"url": "https://github.com/cschneider4711/Marathon",
+		"name": "Marathon",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"JAVA",
+			"Docker"
+		],
+		"author": "Christian Schneider",
+		"notes": "Vulnerable demo application",
+		"badge": "cschneider4711/Marathon",
+		"stars": 66,
+		"last_contributed": "2025-06-15T21:08:48Z"
+	},
+	{
+		"url": "https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/",
+		"name": "Metasploitable 2",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"VMware"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/metasploitable/files/Metasploitable2/"
+			}
+		]
+	},
+	{
+		"url": "https://github.com/rapid7/metasploitable3/wiki/Vulnerabilities",
+		"name": "Metasploitable 3",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"VMware"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/rapid7/metasploitable3"
+			}
+		],
+		"badge": "rapid7/metasploitable3",
+		"stars": 5441,
+		"last_contributed": "2025-02-13T14:49:36Z"
+	},
+	{
+		"url": "https://github.com/OWASP/mastg/tree/master/Crackmes",
+		"name": "MSTG CrackMes",
+		"collection": [
+			"mobile"
+		],
+		"author": "OWASP",
+		"badge": "OWASP/owasp-mstg",
+		"stars": 12727,
+		"last_contributed": "2026-02-21T16:02:17Z"
+	},
+	{
+		"url": "https://github.com/OWASP/MASTG-Hacking-Playground",
+		"name": "MSTG Hacking Playground",
+		"collection": [
+			"mobile"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/OWASP/MASTG-Hacking-Playground/wiki"
+			}
+		],
+		"author": "OWASP",
+		"badge": "OWASP/MASTG-Hacking-Playground",
+		"stars": 661,
+		"last_contributed": "2022-10-31T17:03:31Z"
+	},
+	{
+		"url": "http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10",
+		"name": "Mutillidae",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/webpwnized/mutillidae"
+			},
+			{
+				"name": "docker",
+				"url": "https://github.com/webpwnized/mutillidae-docker"
+			}
+		],
+		"badge": "webpwnized/mutillidae",
+		"stars": 1469,
+		"last_contributed": "2025-08-03T18:57:10Z"
+	},
+	{
+		"url": "http://aspnet.testsparker.com/",
+		"name": "Netsparker Test App .NET",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"ASP.NET"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "http://aspnet.testsparker.com/"
+			}
+		],
+		"author": "Netsparker"
+	},
+	{
+		"url": "http://php.testsparker.com/",
+		"name": "Netsparker Test App PHP",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "http://php.testsparker.com/"
+			}
+		],
+		"author": "Netsparker"
+	},
+	{
+		"url": "https://wiki.owasp.org/index.php/OWASP_Node_js_Goat_Project",
+		"name": "NodeGoat",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Node.js"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/OWASP/NodeGoat"
+			}
+		],
+		"author": "OWASP",
+		"badge": "OWASP/NodeGoat",
+		"stars": 2013,
+		"last_contributed": "2023-06-21T07:23:23Z"
+	},
+	{
+		"url": "https://github.com/cr0hn/vulnerable-node",
+		"name": "NodeVulnerable",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Node.js"
+		],
+		"author": "cr0hn",
+		"badge": "cr0hn/vulnerable-node",
+		"stars": 485,
+		"last_contributed": "2024-04-29T21:09:49Z"
+	},
+	{
+		"url": "https://digi.ninja/projects/nosqli_lab.php",
+		"name": "NoSQL Injection Lab",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP",
+			"MongoDB"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/digininja/nosqlilab"
+			}
+		],
+		"author": "@digininja",
+		"badge": "digininja/nosqlilab",
+		"stars": 134,
+		"last_contributed": "2020-07-22T15:58:48Z"
+	},
+	{
+		"url": "https://github.com/aabashkin/nosql-injection-vulnapp",
+		"name": "NoSQL Injection Vulnerable App (NIVA)",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"Java",
+			"MongoDB"
+		],
+		"references": [
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/aabashkin/niva/tags"
+			},
+			{
+				"name": "guide",
+				"url": "https://github.com/aabashkin/nosql-injection-vulnapp/blob/main/README.md"
+			}
+		],
+		"author": "Anton Abashkin",
+		"badge": "aabashkin/nosql-injection-vulnapp",
+		"stars": 19,
+		"last_contributed": "2022-11-21T09:47:20Z"
+	},
+	{
+		"url": "https://github.com/kOaDT/oss-oopssec-store",
+		"name": "OopsSec Store",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"JavaScript",
+			"TypeScript",
+			"Node.js",
+			"React",
+			"Next.js"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/kOaDT/oss-oopssec-store"
+			},
+			{
+				"name": "guide",
+				"url": "https://kOaDT.github.io/oss-oopssec-store"
+			}
+		],
+		"author": "kOaDT",
+		"notes": "Intentionally vulnerable e-commerce application with CTF challenges. Covers OWASP Top 10, API security flaws, and modern frontend attack vectors. Quick setup via npx create-oss-store.",
+		"badge": "kOaDT/oss-oopssec-store",
+		"stars": 11,
+		"last_contributed": "2026-02-20T07:26:38Z"
+	},
+	{
+		"url": "https://github.com/OSTEsayed/OSTE-Vulnerable-Web-Application",
+		"name": "OSTE-Vulnerable-Web-Application",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"author": "(OSTE)Oudjani seyyid taqi eddine",
+		"notes": "Vulnerable web application",
+		"badge": "OSTEsayed/OSTE-Vulnerable-Web-Application",
+		"stars": 17,
+		"last_contributed": "2023-12-15T23:12:22Z"
+	},
+	{
+		"url": "https://github.com/oversecured/OversecuredVulnerableiOSApp",
+		"name": "OversecuredVulnerableiOSApp",
+		"collection": [
+			"mobile"
+		],
+		"technology": [
+			"iOS",
+			"Swift",
+			"xcode"
+		],
+		"author": "Oversecured Inc",
+		"notes": "an iOS app that aggregates all the platform's known and popular security vulnerabilities.",
+		"badge": "oversecured/OversecuredVulnerableiOSApp",
+		"stars": 232,
+		"last_contributed": "2024-01-10T11:04:41Z"
+	},
+	{
+		"url": "https://owasp.org/www-project-damn-vulnerable-web-sockets/",
+		"name": "OWASP Damn Vulnerable Web Sockets (DVWS)",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP",
+			"HTML",
+			"Javascript",
+			"WebSockets"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/interference-security/DVWS"
+			}
+		],
+		"author": "Abhineet Jayaraj (@xploresec)",
+		"badge": "interference-security/DVWS",
+		"stars": 354,
+		"last_contributed": "2025-12-19T17:00:57Z"
+	},
+	{
+		"url": "https://owasp.org/www-project-juice-shop/",
+		"name": "OWASP Juice Shop",
+		"collection": [
+			"offline",
+			"online",
+			"container"
+		],
+		"technology": [
+			"TypeScript",
+			"JavaScript",
+			"Angular",
+			"Node.js"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/juice-shop/juice-shop"
+			},
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/bkimminich/juice-shop/"
+			},
+			{
+				"name": "guide",
+				"url": "https://pwning.owasp-juice.shop/"
+			},
+			{
+				"name": "demo",
+				"url": "https://demo.owasp-juice.shop"
+			},
+			{
+				"name": "preview",
+				"url": "https://preview.owasp-juice.shop"
+			},
+			{
+				"name": "live",
+				"url": "https://juice-shop.herokuapp.com"
+			}
+		],
+		"author": "OWASP",
+		"badge": "juice-shop/juice-shop",
+		"stars": 12529,
+		"last_contributed": "2026-02-04T10:54:02Z"
+	},
+	{
+		"url": "https://secureby.design/",
+		"name": "OWASP SKF Labs",
+		"collection": [
+			"online",
+			"offline"
+		],
+		"technology": [
+			"Python",
+			"HTML",
+			"Javascript",
+			"GraphQL",
+			"Ruby"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://secureby.design/"
+			}
+		],
+		"author": "glenn.ten.cate@owasp.org and riccardo.ten.cate@owasp.org",
+		"notes": "You can go to the demo website and login(admin / test-skf) or skip login, go to Labs menu and start a Lab you want to do. Please limit the usage of scanning tools on the Labs.",
+		"badge": "blabla1337/skf-labs",
+		"stars": 462,
+		"last_contributed": "2024-08-02T11:33:45Z"
+	},
+	{
+		"url": "https://github.com/SasanLabs/VulnerableApp",
+		"name": "OWASP VulnerableApp",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Java",
+			"Javascript",
+			"Spring-Boot"
+		],
+		"references": [
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/sasanlabs/owasp-vulnerableapp"
+			},
+			{
+				"name": "download",
+				"url": "https://github.com/SasanLabs/VulnerableApp"
+			}
+		],
+		"author": "Karan Preet Singh Sasan",
+		"badge": "SasanLabs/VulnerableApp",
+		"stars": 362,
+		"last_contributed": "2026-02-21T20:01:14Z"
+	},
+	{
+		"url": "https://github.com/SasanLabs/VulnerableApp-facade",
+		"name": "OWASP VulnerableApp-facade",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Typescript",
+			"Javascript",
+			"Docker"
+		],
+		"references": [
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/sasanlabs/owasp-vulnerableapp-facade"
+			},
+			{
+				"name": "download",
+				"url": "https://github.com/SasanLabs/VulnerableApp-facade"
+			}
+		],
+		"author": "Karan Preet Singh Sasan",
+		"badge": "SasanLabs/VulnerableApp-facade",
+		"stars": 49,
+		"last_contributed": "2026-02-19T18:47:30Z"
+	},
+	{
+		"url": "https://pentest-ground.com/",
+		"name": "Pentest-Ground",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"PHP",
+			"Docker"
+		],
+		"author": "Pentest-Tools.com",
+		"notes": "Suite of vulnerable web apps to practice"
+	},
+	{
+		"url": "https://pentesterlab.com/exercises",
+		"name": "PentesterLab - The Exercises",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"ISO",
+			"PDF"
+		]
+	},
+	{
+		"url": "https://sourceforge.net/projects/peruggia/",
+		"name": "Peruggia",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/peruggia/files/"
+			}
+		]
+	},
+	{
+		"url": "https://github.com/DevSlop/Pixi",
+		"name": "Pixi",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"Node.js",
+			"Swagger",
+			"docker"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/DevSlop/Pixi"
+			},
+			{
+				"name": "download",
+				"url": "https://github.com/thedeadrobots/pixi"
+			},
+			{
+				"name": "guide",
+				"url": "https://www.slideshare.net/TanyaJanca/api-and-web-service-hacking-with-pixi-part-of-owasp-devslop"
+			},
+			{
+				"name": "guide",
+				"url": "https://www.youtube.com/watch?v=td-2rN4PgRw"
+			}
+		],
+		"author": "OWASP",
+		"badge": "DevSlop/Pixi",
+		"stars": 132,
+		"last_contributed": "2020-03-31T18:11:43Z"
+	},
+	{
+		"url": "https://github.com/playframework/play-webgoat",
+		"name": "play-webgoat",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Java",
+			"Scala",
+			"Play Framework"
+		],
+		"badge": "playframework/play-webgoat",
+		"stars": 18,
+		"last_contributed": "2026-02-16T22:42:35Z"
+	},
+	{
+		"url": "https://code.google.com/archive/p/puzzlemall",
+		"name": "Puzzlemall",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://code.google.com/archive/p/puzzlemall/downloads"
+			}
+		]
+	},
+	{
+		"url": "https://github.com/adeyosemanputra/pygoat",
+		"name": "PyGoat",
+		"collection": [
+			"offline",
+			"online",
+			"container"
+		],
+		"technology": [
+			"Python"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/adeyosemanputra/pygoat/tree/master/Solutions"
+			},
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/pygoat/pygoat"
+			},
+			{
+				"name": "download",
+				"url": "https://github.com/adeyosemanputra/pygoat"
+			}
+		],
+		"author": "Ade Yoseman",
+		"badge": "adeyosemanputra/pygoat",
+		"stars": 306,
+		"last_contributed": "2026-02-01T14:45:00Z"
+	},
+	{
+		"url": "https://github.com/TheHackerDev/race-the-web",
+		"name": "Race The Web",
+		"collection": [
+			"offline"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/TheHackerDev/race-the-web"
+			}
+		],
+		"author": "insp3ctre",
+		"badge": "TheHackerDev/race-the-web",
+		"stars": 628,
+		"last_contributed": "2019-10-16T19:00:49Z"
+	},
+	{
+		"url": "https://wiki.owasp.org/index.php/OWASP_Rails_Goat_Project",
+		"name": "Rails Goat",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Ruby on Rails"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://codeload.github.com/OWASP/railsgoat/zip/main"
+			},
+			{
+				"name": "downloads",
+				"url": "https://railsgoat.cktricky.com/getting_started.html"
+			}
+		],
+		"author": "OWASP",
+		"badge": "OWASP/railsgoat",
+		"stars": 910,
+		"last_contributed": "2026-01-28T14:02:18Z"
+	},
+	{
+		"url": "https://www.root-me.org",
+		"name": "Root Me",
+		"collection": [
+			"online"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://www.root-me.org"
+			}
+		],
+		"author": "Root-Me",
+		"notes": "Root-Me is a non-profit organization aimed at providing an outstanding learning platform for ethical hacking. It offers hundreds of challenges and virtual environments."
+	},
+	{
+		"url": "https://www.samurai-wtf.org/",
+		"name": "Samurai WTF",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"ISO"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/samurai/files/"
+			}
+		]
+	},
+	{
+		"url": "https://sg6-labs.blogspot.com/2007/12/secgame-1-sauron.html",
+		"name": "Sauron",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"Quemu"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://sg6-labs.blogspot.com/search/label/SecGame"
+			}
+		]
+	},
+	{
+		"url": "https://github.com/alexcolb/scriptease",
+		"name": "Scriptease",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"JavaScript",
+			"React",
+			"Webpack",
+			"Vite"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://codeload.github.com/alexcolb/scriptease/zip/refs/heads/main"
+			}
+		],
+		"notes": "A vulnerable JavaScript SPA (no back end) that demonstrates several client-side security flaws (XSS, open redirect, prototype pollution, ReDoS, request hijacking, etc.) It showcases a diverse set of sources and sinks for taint analysis, uses two alternative bundlers (Webpack, Vite), and includes lazy-loaded modules",
+		"badge": "alexcolb/scriptease",
+		"stars": 1,
+		"last_contributed": "2026-01-02T14:49:29Z"
+	},
+	{
+		"url": "https://github.com/globocom/secDevLabs",
+		"name": "SecDevLabs",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Go",
+			"NodeJS",
+			"Python",
+			"PHP",
+			"React",
+			"Angular/Spring",
+			"Dart/Flutter"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/globocom/secDevLabs"
+			}
+		],
+		"author": "Globo",
+		"notes": "Repository with many intentionally vulnerable web applications. Includes attack narratives and docker options for each app.",
+		"badge": "globocom/secDevLabs",
+		"stars": 971,
+		"last_contributed": "2024-09-25T19:54:56Z"
+	},
+	{
+		"url": "https://github.com/skills/secure-code-game",
+		"name": "Secure Code Game",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"JavaScript"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/skills/secure-code-game"
+			}
+		],
+		"author": "GitHub Security Lab",
+		"notes": "A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.",
+		"badge": "skills/secure-code-game",
+		"stars": 2599,
+		"last_contributed": "2026-02-18T13:19:09Z"
+	},
+	{
+		"url": "https://github.com/DataDog/security-labs-pocs",
+		"name": "Security Labs & POCs",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"docker",
+			"Kubernetes",
+			"PiPy",
+			"OpenSSL",
+			"JWT"
+		],
+		"author": "DataDog",
+		"badge": "DataDog/security-labs-pocs",
+		"stars": 449,
+		"last_contributed": "2025-08-18T13:44:59Z"
+	},
+	{
+		"url": "https://owasp.org/www-project-security-shepherd/",
+		"name": "Security Shepherd",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/OWASP/SecurityShepherd"
+			}
+		],
+		"author": "OWASP",
+		"badge": "OWASP/SecurityShepherd",
+		"stars": 1425,
+		"last_contributed": "2026-02-10T09:55:17Z"
+	},
+	{
+		"url": "http://testhtml5.vulnweb.com/",
+		"name": "Security Tweets",
+		"collection": [
+			"online"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "http://testhtml5.vulnweb.com"
+			}
+		],
+		"author": "Acunetix",
+		"notes": "HTML5"
+	},
+	{
+		"url": "https://solyd.com.br/cursos/introducao-ao-hacking-e-pentest-2/",
+		"name": "Solyd - Introdução ao Hacking e Pentest",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"PHP",
+			"Linux"
+		],
+		"author": "Solyd",
+		"notes": "In Portuguese (Português) - Free online training with free online lab"
+	},
+	{
+		"url": "https://github.com/sqlmapproject/testenv",
+		"name": "SQL injection test environment",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"notes": "SQLmap Project",
+		"badge": "sqlmapproject/testenv",
+		"stars": 352,
+		"last_contributed": "2022-04-14T09:05:57Z"
+	},
+	{
+		"url": "https://github.com/Audi-1/sqli-labs",
+		"name": "SQLI-labs",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://codeload.github.com/Audi-1/sqli-labs/zip/refs/heads/master"
+			},
+			{
+				"name": "guide",
+				"url": "https://dummy2dummies.blogspot.com/2012/06/sqli-lab-series-part-1.html"
+			}
+		],
+		"badge": "Audi-1/sqli-labs",
+		"stars": 5721,
+		"last_contributed": "2014-10-31T19:10:23Z"
+	},
+	{
+		"url": "https://github.com/SpiderLabs/SQLol",
+		"name": "SQLol",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://codeload.github.com/SpiderLabs/SQLol/zip/refs/heads/master"
+			}
+		],
+		"badge": "SpiderLabs/SQLol",
+		"stars": 123,
+		"last_contributed": "2013-07-19T21:15:43Z"
+	},
+	{
+		"url": "https://github.com/incredibleindishell/SSRF_Vulnerable_Lab",
+		"name": "SSRF Vuln Lab",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "docker",
+				"url": "https://github.com/incredibleindishell/SSRF_Vulnerable_Lab#docker"
+			}
+		],
+		"author": "incredibleindishell, Mohammed Farhan",
+		"badge": "incredibleindishell/SSRF_Vulnerable_Lab",
+		"stars": 761,
+		"last_contributed": "2023-08-21T17:02:38Z"
+	},
+	{
+		"url": "https://github.com/Hackmanit/template-injection-playground",
+		"name": "Template Injection Playground",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"Docker",
+			"Various Template Engines"
+		],
+		"author": "Hackmanit and Maximilian Hildebrand",
+		"badge": "Hackmanit/template-injection-playground",
+		"stars": 64,
+		"last_contributed": "2026-01-03T18:26:39Z"
+	},
+	{
+		"url": "https://github.com/dhatanian/ticketmagpie",
+		"name": "TicketMagpie",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/dhatanian/ticketmagpie"
+			}
+		],
+		"badge": "dhatanian/ticketmagpie",
+		"stars": 20,
+		"last_contributed": "2017-05-11T19:24:38Z"
+	},
+	{
+		"url": "https://github.com/payatu/Tiredful-API",
+		"name": "Tiredful API",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Python",
+			"Django"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/payatu/Tiredful-API"
+			}
+		],
+		"author": "@payatu",
+		"badge": "payatu/Tiredful-API",
+		"stars": 577,
+		"last_contributed": "2020-09-07T06:22:06Z"
+	},
+	{
+		"url": "https://tryhackme.com",
+		"name": "TryHackMe",
+		"collection": [
+			"online",
+			"platform"
+		],
+		"technology": [
+			"Various"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://tryhackme.com"
+			}
+		],
+		"author": "TryHackMe",
+		"notes": "Online platform for learning cyber security through hands-on exercises and labs. Features virtual rooms with vulnerable machines and guided learning paths."
+	},
+	{
+		"url": "https://github.com/lucideus-repo/UnSAFE_Bank",
+		"name": "UnSAFE Bank",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Docker"
+		],
+		"author": "lucideus",
+		"notes": "Web, Android and iOS application",
+		"badge": "lucideus-repo/UnSAFE_Bank",
+		"stars": 169,
+		"last_contributed": "2025-09-29T13:35:56Z"
+	},
+	{
+		"url": "https://github.com/erev0s/VAmPI",
+		"name": "VAmPI",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"python",
+			"docker",
+			"OpenAPI"
+		],
+		"references": [
+			{
+				"name": "announcement",
+				"url": "https://erev0s.com/blog/vampi-vulnerable-api-security-testing/"
+			}
+		],
+		"author": "erev0s",
+		"badge": "erev0s/VAmPI",
+		"stars": 1173,
+		"last_contributed": "2024-11-25T13:00:33Z"
+	},
+	{
+		"url": "https://github.com/roottusk/vapi",
+		"name": "vAPI",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/roottusk/vapi/blob/master/README.md"
+			},
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/roottusk/vapi"
+			}
+		],
+		"author": "Tushar Kulkarni",
+		"notes": "vAPI is a Vulnerable Interface that demonstrates the OWASP API Top 10 vulnerabilities in the means of exercises",
+		"badge": "roottusk/vapi",
+		"stars": 1326,
+		"last_contributed": "2025-01-10T02:48:25Z"
+	},
+	{
+		"url": "https://github.com/detectify/Varnish-H2-Request-Smuggling",
+		"name": "Varnish HTTP/2 Request Smuggling",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Varnish",
+			"HTTP/2"
+		],
+		"references": [
+			{
+				"name": "announcement",
+				"url": "https://twitter.com/berg0x00/status/1431027889064058885"
+			}
+		],
+		"author": "Detectify",
+		"notes": "A docker-compose file to setup a local environment that is vulnerable to CVE-2021-36740 Varnish HTTP/2 request smuggling, presented by Albinowax at Blackhat/Defcon 2021.",
+		"badge": "detectify/Varnish-H2-Request-Smuggling",
+		"stars": 56,
+		"last_contributed": "2021-08-26T21:21:10Z"
+	},
+	{
+		"url": "https://sourceforge.net/projects/virtualhacking/",
+		"name": "Virtual Hacking Lab",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"ZIP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/virtualhacking/files/"
+			}
+		]
+	},
+	{
+		"author": "Al-Amir Badmus",
+		"collection": [
+			"online",
+			"container",
+			"mobile"
+		],
+		"name": "Vuln-Bank",
+		"notes": "A deliberately vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews. Features common vulnerabilities found in real-world applications, making it an ideal platform for security professionals, developers, and enthusiasts to learn security testing and secure coding practices in a safe environment.",
+		"references": [
+			{
+				"name": "live",
+				"url": "https://vulnbank.org"
+			},
+			{
+				"name": "download",
+				"url": "https://github.com/Commando-X/vuln-bank"
+			}
+		],
+		"technology": [
+			"Python",
+			"JavaScript",
+			"Postgres",
+			"Docker",
+			"HTML/CSS",
+			"AI/LLM"
+		],
+		"url": "https://github.com/Commando-X/vuln-bank",
+		"badge": "Commando-X/vuln-bank",
+		"stars": 587,
+		"last_contributed": "2025-11-23T11:52:35Z"
+	},
+	{
+		"url": "https://github.com/SirAppSec/vuln-node.js-express.js-app",
+		"name": "vuln-node.js-express.js-app",
+		"author": "SirAppSec",
+		"badge": "SirAppSec/vuln-node.js-express.js-app",
+		"collection": [
+			"container",
+			"offline"
+		],
+		"notes": "A Very Vulnerable Node.js Express.js Web Application and API. Used for testing Security tools, Application security and penetration testing. Using Swagger, Sqlite, Sequelize. ",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/SirAppSec/vuln-node.js-express.js-app"
+			},
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/sirappsec/nodejs-vulnerable-app"
+			}
+		],
+		"technology": [
+			"Node.js",
+			"Express.js",
+			"swagger",
+			"sqlite",
+			"sequelize"
+		],
+		"stars": 42,
+		"last_contributed": "2024-08-26T22:48:44Z"
+	},
+	{
+		"url": "https://github.com/ScaleSec/vulnado",
+		"name": "Vulnado",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"Java",
+			"Docker"
+		],
+		"author": "ScaleSec",
+		"notes": "Purposely vulnerable Java application to help lead secure coding workshops",
+		"badge": "ScaleSec/vulnado",
+		"stars": 191,
+		"last_contributed": "2020-06-02T13:59:07Z"
+	},
+	{
+		"url": "https://github.com/CSPF-Founder/JavaVulnerableLab/",
+		"name": "Vulnerable Java Web Application",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Java"
+		],
+		"author": "Cyber Security and Privacy Foundation",
+		"badge": "CSPF-Founder/JavaVulnerableLab",
+		"stars": 270,
+		"last_contributed": "2024-06-20T06:43:30Z"
+	},
+	{
+		"url": "https://github.com/kaakaww/vuln_node_express",
+		"name": "Vulnerable Node Express",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Node.js",
+			"Express"
+		],
+		"author": "Zachary Conger",
+		"notes": "SQLi and XSS",
+		"badge": "kaakaww/vuln_node_express",
+		"stars": 21,
+		"last_contributed": "2023-11-16T20:03:11Z"
+	},
+	{
+		"url": "https://github.com/mddanish/Vulnerable-OTP-Application",
+		"name": "Vulnerable OTP App",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP",
+			"Google OTP"
+		],
+		"author": "mddanish",
+		"badge": "mddanish/Vulnerable-OTP-Application",
+		"stars": 86,
+		"last_contributed": "2019-11-13T11:35:42Z"
+	},
+	{
+		"url": "https://github.com/yogisec/VulnerableSAMLApp",
+		"name": "Vulnerable SAML App",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Python"
+		],
+		"author": "yogisec",
+		"badge": "yogisec/VulnerableSAMLApp",
+		"stars": 54,
+		"last_contributed": "2020-11-02T13:33:52Z"
+	},
+	{
+		"url": "https://github.com/mattvaldes/vulnerable-api",
+		"name": "vulnerable-api",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Python"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/mattvaldes/vulnerable-api"
+			}
+		],
+		"author": "Matthew Valdes",
+		"badge": "mattvaldes/vulnerable-api",
+		"stars": 70,
+		"last_contributed": "2016-06-29T00:08:02Z"
+	},
+	{
+		"url": "https://github.com/Aif4thah/VulnerableLightApp",
+		"name": "VulnerableLightApp",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			".NET",
+			"C#",
+			"AspNetCore"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/Aif4thah/VulnerableLightApp"
+			}
+		],
+		"author": "Michael Vacarella",
+		"notes": "Vulnerable API for educational purposes",
+		"badge": "Aif4thah/VulnerableLightApp",
+		"stars": 52,
+		"last_contributed": "2026-01-07T13:25:41Z"
+	},
+	{
+		"url": "https://github.com/ctxis/VulnerableXsltConsoleApplication",
+		"name": "VulnerableXsltConsoleApplication",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			".Net"
+		],
+		"author": " Context Information Security",
+		"notes": "This is a console app, however it relates to an issues that is relevant to web apps: use of XSLT transforms for XML files.",
+		"badge": "ctxis/VulnerableXsltConsoleApplication",
+		"stars": 10,
+		"last_contributed": "2017-09-25T13:10:10Z"
+	},
+	{
+		"url": "https://github.com/Yavuzlar/VulnLab",
+		"name": "VulnLab",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP",
+			"Docker"
+		],
+		"author": "Yavuzlar (siberyavuzlar.com)",
+		"notes": "A web vulnerability lab project developed by Yavuzlar.",
+		"badge": "Yavuzlar/VulnLab",
+		"stars": 489,
+		"last_contributed": "2025-02-02T18:40:45Z"
+	},
+	{
+		"url": "https://github.com/adamdoupe/WackoPicko",
+		"name": "WackoPicko",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://codeload.github.com/adamdoupe/WackoPicko/legacy.zip/refs/heads/master"
+			}
+		],
+		"badge": "adamdoupe/WackoPicko",
+		"stars": 346,
+		"last_contributed": "2021-11-17T16:51:38Z"
+	},
+	{
+		"url": "https://github.com/zaproxy/wavsep",
+		"name": "WAVSEP - Web Application Vulnerability Scanner Evaluation Project",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "downloads",
+				"url": "https://github.com/sectooladdict/wavsep/wiki"
+			},
+			{
+				"name": "announcement",
+				"url": "https://www.zaproxy.org/blog/2025-09-08-zap-is-adopting-wavsep/"
+			}
+		],
+		"author": "Shay Chen & The ZAP Dev Team",
+		"badge": "zaproxy/wavsep",
+		"stars": 14,
+		"last_contributed": "2025-09-08T15:25:38Z"
+	},
+	{
+		"url": "https://github.com/samuraiwtf/wayfarer",
+		"name": "Wayfarer",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"Docker",
+			"OAuth",
+			"React"
+		],
+		"author": "SamuraiWTF",
+		"badge": "SamuraiWTF/wayfarer",
+		"stars": 1,
+		"last_contributed": "2023-08-24T20:35:50Z"
+	},
+	{
+		"url": "https://www.mavensecurity.com/resources/web-security-dojo",
+		"name": "Web Security Dojo",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"VMware",
+			"VirtualBox"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/websecuritydojo/files/"
+			}
+		]
+	},
+	{
+		"url": "https://webgoat.github.io/WebGoat/",
+		"name": "WebGoat",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/WebGoat/WebGoat/releases"
+			},
+			{
+				"name": "guide",
+				"url": "https://owasp.org/www-project-webgoat/"
+			},
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/webgoat/goatandwolf"
+			}
+		],
+		"author": "OWASP",
+		"badge": "WebGoat/WebGoat",
+		"stars": 8932,
+		"last_contributed": "2026-02-08T19:17:37Z"
+	},
+	{
+		"url": "https://owasp.org/www-project-webgoat/",
+		"name": "WebGoatPHP",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/OWASP/OWASPWebGoatPHP"
+			},
+			{
+				"name": "downloads",
+				"url": "https://github.com/OWASP/OWASPWebGoatPHP/blob/master/README.md"
+			}
+		],
+		"author": "OWASP",
+		"badge": "OWASP/OWASPWebGoatPHP",
+		"stars": 148,
+		"last_contributed": "2025-04-28T23:55:59Z"
+	},
+	{
+		"url": "https://github.com/marmicode/websheep",
+		"name": "websheep",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Angular",
+			"JavaScript",
+			"Node"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/marmicode/websheep"
+			}
+		],
+		"author": "Younes Jaaidi (yjaaidi)",
+		"notes": " Websheep is an app based on a willingly vulnerable ReSTful APIs.",
+		"badge": "marmicode/websheep",
+		"stars": 57,
+		"last_contributed": "2022-12-21T14:35:22Z"
+	},
+	{
+		"url": "https://github.com/The-Art-of-Hacking/websploit",
+		"name": "Websploit",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Python"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/The-Art-of-Hacking/websploit"
+			}
+		],
+		"author": "Omar Santos",
+		"notes": "This is a learning resource created by Omar Santos (@santosomar) for different Cybersecurity training sessions. It includes many intentionally vulnerable applications running in Docker containers and thousands of cybersecurity resources.",
+		"badge": "The-Art-of-Hacking/websploit",
+		"stars": 447,
+		"last_contributed": "2026-01-16T05:52:38Z"
+	},
+	{
+		"url": "https://github.com/GrrrDog/weird_proxies/tree/master/labs",
+		"name": "Weird Proxies - Labs",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"Python",
+			"docker",
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/GrrrDog/weird_proxies"
+			}
+		],
+		"author": "Green Dog (GrrrDog)",
+		"badge": "GrrrDog/weird_proxies",
+		"stars": 1855,
+		"last_contributed": "2023-11-04T18:48:02Z"
+	},
+	{
+		"url": "https://code.google.com/archive/p/wivet",
+		"name": "WIVET- Web Input Vector Extractor Teaser",
+		"collection": [
+			"offline"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://www.webguvenligi.org/projeler/wivet"
+			},
+			{
+				"name": "downloads",
+				"url": "https://code.google.com/archive/p/wivet/downloads"
+			}
+		]
+	},
+	{
+		"url": "https://github.com/OWASP/wrongsecrets",
+		"name": "WrongSecrets",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"JavaScript",
+			"Java",
+			"Hashicorp Vault",
+			"Kubernetes",
+			"Docker",
+			"AWS",
+			"GCP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/OWASP/wrongsecrets"
+			}
+		],
+		"author": "Jeroen Willemsen (@commjoen), Ben de Haan (@bendehaan), Nanne Baars (@nbaars)",
+		"notes": "OWASP WrongSecrets is a vulnerable app used to show how to not use secrets.",
+		"badge": "OWASP/wrongsecrets",
+		"stars": 1394,
+		"last_contributed": "2026-02-03T20:52:04Z"
+	},
+	{
+		"url": "https://sourceforge.net/projects/xxe/",
+		"name": "XXE",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"VMware"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/xxe/files/"
+			}
+		]
+	},
+	{
+		"url": "https://github.com/jbarone/xxelab",
+		"name": "XXE Lab",
+		"collection": [
+			"container",
+			"offline"
+		],
+		"technology": [
+			"docker",
+			"vagrant"
+		],
+		"author": "Joshua Barone",
+		"badge": "jbarone/xxelab",
+		"stars": 231,
+		"last_contributed": "2021-11-10T12:01:04Z"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "ypreyAPINodeJS",
+		"notes": "yrpreyAPINodeJS is a vulnerable framework written in NodeJS and based on the OWASP TOP 10 API.",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/ypreyAPINodeJS"
+			}
+		],
+		"technology": [
+			"NodeJS",
+			"PHP",
+			"MariaDB",
+			"Bootstrap",
+			"JavaScript"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "ypreyAPIPython",
+		"notes": "ypreyAPIPython is a vulnerable framework written in Python and based on the OWASP TOP 10 API.",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/ypreyAPIPython"
+			}
+		],
+		"technology": [
+			"Python",
+			"PHP",
+			"MariaDB",
+			"Bootstrap",
+			"JavaScript"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "ypreyPollsPHP",
+		"notes": "ypreyPollsPHP is a vulnerable framework written in PHP with a polls management scenario, based on the OWASP TOP 10",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/ypreyPollsPHP"
+			}
+		],
+		"technology": [
+			"PHP",
+			"MySQL",
+			"Materialize",
+			"Bootstrap"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali, Vagner Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "Yrprey",
+		"notes": "Framework created in NextJs (TypeScript) and PHP/MySQL with OWASP TOP 10 API vulnerabilities of 2019 and 2023. Yrprey can was created for educational purposes, contributing to the teaching and learning of those interested in Pentest (intrusion testing) and Application Security (Appsec).",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrprey-backend"
+			},
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrprey-frontend"
+			},
+			{
+				"name": "docker",
+				"url": "https://github.com/yrprey/yrprey-application"
+			}
+		],
+		"technology": [
+			"PHP",
+			"TypeScript",
+			"NextJs"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "yrpreyASPC",
+		"notes": "yrpreyASPC is a vulnerable framework written in ASP and C with vulnerabilities based on Buffer Overflow, Command Injection, and web application vulnerabilities.",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrpreyASPC"
+			}
+		],
+		"technology": [
+			"ASP",
+			"MySQL",
+			"C"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "yrpreyASPCPlus",
+		"notes": "yrpreyASPCPlus is a vulnerable framework written in ASP and C++ with vulnerabilities based on Buffer Overflow, Command Injection, and web application vulnerabilities.",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrpreyASPCPlus"
+			}
+		],
+		"technology": [
+			"ASP",
+			"MySQL",
+			"C++"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "YrpreyBlog",
+		"notes": "A framework created in PHP/MySQL with OWASP TOP 10 Web Application vulnerabilities.",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrpreyBlog"
+			}
+		],
+		"technology": [
+			"PHP",
+			"CSS",
+			"Bootstrap",
+			"MySQL"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "YrpreyC",
+		"notes": "YrpreyC is a framework written in the C language that contains vulnerabilities related to memory issues, categorized as overflows",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrpreyC"
+			}
+		],
+		"technology": [
+			"C"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "YrpreyC++",
+		"notes": "YrpreyC++ is a framework written in the C++ language that contains vulnerabilities related to memory issues, categorized as overflows",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrpreyCPlus"
+			}
+		],
+		"technology": [
+			"C++"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "yrpreyFinance",
+		"notes": "yrpreyFinance is a vulnerable framework written in PHP with a financial management scenario, based on the OWASP TOP 10",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrpreyFinance"
+			}
+		],
+		"technology": [
+			"PHP",
+			"MySQL",
+			"Bootstrap"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "yrpreyLibrary",
+		"notes": "yrpreyLibrary is a vulnerable framework written in PHP, based on the OWASP TOP 10",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrpreyLibrary"
+			}
+		],
+		"technology": [
+			"PHP",
+			"MySQL",
+			"Bootstrap"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "YrpreyPathTraversal",
+		"notes": "YrpreyPathTraversal is a framework written in PHP, with examples of exploiting Path Traversal and Local File Inclusion vulnerabilities in different ways.",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/YrpreyPathTraversal"
+			}
+		],
+		"technology": [
+			"PHP",
+			"MySQL",
+			"Semantic UI",
+			"Bootstrap"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "YrpreyPHP",
+		"notes": "A framework created in PHP/MySQL with OWASP TOP 10 Web Application vulnerabilities. YrpreyPHP was created for educational purposes, contributing to the teaching and learning of those interested in Pentest (intrusion testing) and Application Security (AppSec).",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrpreyPHP/"
+			}
+		],
+		"technology": [
+			"PHP",
+			"CSS",
+			"Bootstrap",
+			"MySQL"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "yrpreyPollsNodeJS",
+		"notes": "yrpreyPollsNodeJS is a vulnerable framework written in NodeJS with a polls management scenario, based on the OWASP TOP 10",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrpreyPollsNodeJS"
+			}
+		],
+		"technology": [
+			"NodeJS",
+			"PHP",
+			"MySQL",
+			"Materialize",
+			"Bootstrap"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "yrpreyPollsPerl",
+		"notes": "yrpreyPollsPerl is a vulnerable framework written in Perl with a polls management scenario, based on the OWASP TOP 10",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrpreyPollsPerl"
+			}
+		],
+		"technology": [
+			"Perl",
+			"PHP",
+			"MySQL",
+			"Materialize",
+			"Bootstrap"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "yrpreyPollsPython",
+		"notes": "yrpreyPollsPython is a vulnerable framework written in Python with a polls management scenario, based on the OWASP TOP 10",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrpreyPollsPython"
+			}
+		],
+		"technology": [
+			"Python",
+			"PHP",
+			"MySQL",
+			"Materialize",
+			"Bootstrap"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "yrpreyTasks",
+		"notes": "yrpreyTasks is a vulnerable framework written in PHP with a task management scenario, based on the OWASP TOP 10",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrpreyTasks"
+			}
+		],
+		"technology": [
+			"PHP",
+			"MySQL",
+			"Bootstrap"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "yrpreyTasksNodeJS",
+		"notes": "yrpreyTasksNodeJS is a vulnerable framework written in NodeJS with a task management scenario, based on the OWASP TOP 10",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrpreyTasksNodeJS"
+			}
+		],
+		"technology": [
+			"NodeJS",
+			"PHP",
+			"MySQL",
+			"Bootstrap"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"author": "Fernando Mengali",
+		"collection": [
+			"offline"
+		],
+		"name": "yrpreyTasksPython",
+		"notes": "yrpreyTasksPython is a vulnerable framework written in Python with a task management scenario, based on the OWASP TOP 10",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrpreyTasksPython"
+			}
+		],
+		"technology": [
+			"Python",
+			"PHP",
+			"MySQL",
+			"Bootstrap"
+		],
+		"url": "https://yrprey.com"
+	},
+	{
+		"url": "http://zero.webappsecurity.com/",
+		"name": "Zero Bank",
+		"collection": [
+			"online"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "http://zero.webappsecurity.com"
+			}
+		],
+		"author": "Micro Focus Fortify (was HP/SpiDynamics)",
+		"notes": "(username/password)"
+	},
+	{
+		"collection": [
+			"offline",
+			"container"
+		],
+		"name": "Zero Health",
+		"url": "https://github.com/aligorithm/Zero-Health",
+		"notes": "Zero trust. Zero security. Total exposure. A deliberately vulnerable health tech platform with AI Chatbot for learning about application security and ethical hacking. It contains vulnerabilities from OWASP top 10 Web, API and AI/LLM Security Vulnerabilities. Highly vulnerable, never use in production.",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/aligorithm/Zero-Health"
+			},
+			{
+				"name": "guide",
+				"url": "https://zerohealth.aliyu.dev"
+			},
+			{
+				"name": "demo",
+				"url": "https://www.youtube.com/watch?v=h3jm83jw33Q&feature=youtu.be"
+			}
+		],
+		"technology": [
+			"React",
+			"NodeJS",
+			"JavaScript",
+			"Postgres",
+			"Docker",
+			"Ollama",
+			"Swagger/OpenAPI"
+		],
+		"author": "Aliyu G. Yisa",
+		"badge": "aligorithm/Zero-Health",
+		"stars": 40,
+		"last_contributed": "2026-02-14T17:38:56Z"
+	}
+]
