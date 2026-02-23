@@ -115,7 +115,7 @@
 		],
 		"author": "satishpatnayak",
 		"badge": "satishpatnayak/AndroGoat",
-		"stars": 323,
+		"stars": 325,
 		"last_contributed": "2025-11-22T05:07:26Z"
 	},
 	{
@@ -368,7 +368,7 @@
 		"author": "Cider",
 		"notes": "Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, capture the flags.",
 		"badge": "cider-security-research/cicd-goat",
-		"stars": 2199,
+		"stars": 2200,
 		"last_contributed": "2024-07-11T13:31:30Z"
 	},
 	{
@@ -398,7 +398,7 @@
 		],
 		"author": "Rhino Security Labs",
 		"badge": "RhinoSecurityLabs/cloudgoat",
-		"stars": 3482,
+		"stars": 3484,
 		"last_contributed": "2026-02-12T23:05:15Z"
 	},
 	{
@@ -423,7 +423,7 @@
 		"author": "OWASP",
 		"notes": "OWASP crAPI (Completely Ridiculous API) is an intentionally vulnerable API designed to help security teams practice API security testing including BOLA, BFLA, mass assignment, and authentication flaws.",
 		"badge": "OWASP/crAPI",
-		"stars": 1427,
+		"stars": 1429,
 		"last_contributed": "2026-02-15T20:17:55Z"
 	},
 	{
@@ -819,7 +819,7 @@
 		],
 		"author": "Reversec Labs",
 		"badge": "ReversecLabs/damn-vulnerable-llm-agent",
-		"stars": 363,
+		"stars": 364,
 		"last_contributed": "2025-06-25T13:58:42Z"
 	},
 	{
@@ -848,7 +848,7 @@
 		"author": "@appsecco",
 		"notes": "Different project from the old DVNA",
 		"badge": "appsecco/dvna",
-		"stars": 758,
+		"stars": 759,
 		"last_contributed": "2023-11-08T12:11:49Z"
 	},
 	{
@@ -865,7 +865,7 @@
 		"author": "Koen Buyens",
 		"notes": "A set of vulnerable applications which show Oauth2.0 vulnerabilities.",
 		"badge": "koenbuyens/Vulnerable-OAuth-2.0-Applications",
-		"stars": 325,
+		"stars": 326,
 		"last_contributed": "2018-09-15T17:12:22Z"
 	},
 	{
@@ -902,7 +902,7 @@
 		"author": "theowni",
 		"notes": "Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.",
 		"badge": "theowni/Damn-Vulnerable-Restaurant-API-Game",
-		"stars": 893,
+		"stars": 895,
 		"last_contributed": "2026-01-03T14:11:08Z"
 	},
 	{
@@ -930,7 +930,7 @@
 		"author": "theowni",
 		"notes": "An intentionally vulnerable API training game for developers, ethical hackers, and security engineers. Designed as a CTF-style playground to learn, detect, exploit, and remediate API security vulnerabilities using a FastAPI-based application. Supports local Docker deployment and online execution via GitHub Codespaces.",
 		"badge": "theowni/Damn-Vulnerable-RESTaurant-API-Game",
-		"stars": 893,
+		"stars": 895,
 		"last_contributed": "2026-01-03T14:11:08Z"
 	},
 	{
@@ -997,7 +997,7 @@
 		],
 		"author": "RandomStorm",
 		"badge": "ethicalhack3r/DVWA",
-		"stars": 12611,
+		"stars": 12618,
 		"last_contributed": "2026-02-13T19:27:10Z"
 	},
 	{
@@ -1064,7 +1064,7 @@
 		"author": "SunSec",
 		"badge": "SunWeb3Sec/DeFiHackLabs",
 		"notes": "Reproduce DeFi hacked incidents using Foundry.",
-		"stars": 6410,
+		"stars": 6415,
 		"last_contributed": "2026-02-18T10:47:22Z"
 	},
 	{
@@ -1090,7 +1090,7 @@
 		"author": "Payatu",
 		"notes": "DIVA (Damn Insecure and Vulnerable App) is an intentionally vulnerable Android application designed to help security professionals and developers learn about Android security vulnerabilities.",
 		"badge": "payatu/diva-android",
-		"stars": 1087,
+		"stars": 1088,
 		"last_contributed": "2016-01-15T10:13:59Z"
 	},
 	{
@@ -1248,7 +1248,7 @@
 		"author": "OWASP",
 		"notes": "AWS EKS Security Lab and activity.",
 		"badge": "OWASP/www-project-eks-goat",
-		"stars": 40,
+		"stars": 41,
 		"last_contributed": "2026-02-20T19:27:57Z"
 	},
 	{
@@ -1350,7 +1350,7 @@
 		"author": "Orange-Cyberdefense",
 		"notes": "Requires a considerably powerful system",
 		"badge": "Orange-Cyberdefense/GOAD",
-		"stars": 7473,
+		"stars": 7480,
 		"last_contributed": "2025-07-16T16:54:53Z"
 	},
 	{
@@ -1731,7 +1731,7 @@
 		"author": "Omer Levi Hevroni",
 		"notes": "A small webserver vulnerable to insecure deserialization",
 		"badge": "omerlh/insecure-deserialisation-net-poc",
-		"stars": 20,
+		"stars": 21,
 		"last_contributed": "2017-11-30T10:59:08Z"
 	},
 	{
@@ -1753,7 +1753,7 @@
 		"author": "Dinesh Shetty",
 		"notes": "Vulnerable Android application for security enthusiasts and developers to learn about Android insecurities. Showcases various security vulnerabilities in Android banking applications.",
 		"badge": "dineshshetty/Android-InsecureBankv2",
-		"stars": 1404,
+		"stars": 1405,
 		"last_contributed": "2019-11-21T15:29:07Z"
 	},
 	{
@@ -1824,7 +1824,7 @@
 		"author": "Kubernetes Security Team",
 		"notes": "Interactive workshop covering Kubernetes security best practices",
 		"badge": "madhuakula/kubernetes-goat",
-		"stars": 5416,
+		"stars": 5417,
 		"last_contributed": "2025-11-18T15:14:10Z"
 	},
 	{
@@ -1910,7 +1910,7 @@
 			}
 		],
 		"badge": "rapid7/metasploitable3",
-		"stars": 5441,
+		"stars": 5445,
 		"last_contributed": "2025-02-13T14:49:36Z"
 	},
 	{
@@ -1921,8 +1921,8 @@
 		],
 		"author": "OWASP",
 		"badge": "OWASP/owasp-mstg",
-		"stars": 12727,
-		"last_contributed": "2026-02-21T16:02:17Z"
+		"stars": 12728,
+		"last_contributed": "2026-02-23T05:22:10Z"
 	},
 	{
 		"url": "https://github.com/OWASP/MASTG-Hacking-Playground",
@@ -2051,7 +2051,7 @@
 		"author": "@digininja",
 		"badge": "digininja/nosqlilab",
 		"stars": 134,
-		"last_contributed": "2020-07-22T15:58:48Z"
+		"last_contributed": "2026-02-23T13:06:48Z"
 	},
 	{
 		"url": "https://github.com/aabashkin/nosql-injection-vulnapp",
@@ -2106,7 +2106,7 @@
 		"notes": "Intentionally vulnerable e-commerce application with CTF challenges. Covers OWASP Top 10, API security flaws, and modern frontend attack vectors. Quick setup via npx create-oss-store.",
 		"badge": "kOaDT/oss-oopssec-store",
 		"stars": 11,
-		"last_contributed": "2026-02-20T07:26:38Z"
+		"last_contributed": "2026-02-22T21:15:20Z"
 	},
 	{
 		"url": "https://github.com/OSTEsayed/OSTE-Vulnerable-Web-Application",
@@ -2205,8 +2205,8 @@
 		],
 		"author": "OWASP",
 		"badge": "juice-shop/juice-shop",
-		"stars": 12529,
-		"last_contributed": "2026-02-04T10:54:02Z"
+		"stars": 12543,
+		"last_contributed": "2026-02-22T10:12:57Z"
 	},
 	{
 		"url": "https://secureby.design/",
@@ -2257,7 +2257,7 @@
 		],
 		"author": "Karan Preet Singh Sasan",
 		"badge": "SasanLabs/VulnerableApp",
-		"stars": 362,
+		"stars": 363,
 		"last_contributed": "2026-02-21T20:01:14Z"
 	},
 	{
@@ -2283,7 +2283,7 @@
 		],
 		"author": "Karan Preet Singh Sasan",
 		"badge": "SasanLabs/VulnerableApp-facade",
-		"stars": 49,
+		"stars": 50,
 		"last_contributed": "2026-02-19T18:47:30Z"
 	},
 	{
@@ -2436,7 +2436,7 @@
 		],
 		"author": "insp3ctre",
 		"badge": "TheHackerDev/race-the-web",
-		"stars": 628,
+		"stars": 629,
 		"last_contributed": "2019-10-16T19:00:49Z"
 	},
 	{
@@ -2681,7 +2681,7 @@
 			}
 		],
 		"badge": "Audi-1/sqli-labs",
-		"stars": 5721,
+		"stars": 5720,
 		"last_contributed": "2014-10-31T19:10:23Z"
 	},
 	{
@@ -2720,7 +2720,7 @@
 		],
 		"author": "incredibleindishell, Mohammed Farhan",
 		"badge": "incredibleindishell/SSRF_Vulnerable_Lab",
-		"stars": 761,
+		"stars": 762,
 		"last_contributed": "2023-08-21T17:02:38Z"
 	},
 	{
@@ -2775,7 +2775,7 @@
 		],
 		"author": "@payatu",
 		"badge": "payatu/Tiredful-API",
-		"stars": 577,
+		"stars": 578,
 		"last_contributed": "2020-09-07T06:22:06Z"
 	},
 	{
@@ -2856,7 +2856,7 @@
 		"author": "Tushar Kulkarni",
 		"notes": "vAPI is a Vulnerable Interface that demonstrates the OWASP API Top 10 vulnerabilities in the means of exercises",
 		"badge": "roottusk/vapi",
-		"stars": 1326,
+		"stars": 1328,
 		"last_contributed": "2025-01-10T02:48:25Z"
 	},
 	{
@@ -2926,7 +2926,7 @@
 		],
 		"url": "https://github.com/Commando-X/vuln-bank",
 		"badge": "Commando-X/vuln-bank",
-		"stars": 587,
+		"stars": 591,
 		"last_contributed": "2025-11-23T11:52:35Z"
 	},
 	{
@@ -3075,7 +3075,7 @@
 		"notes": "Vulnerable API for educational purposes",
 		"badge": "Aif4thah/VulnerableLightApp",
 		"stars": 52,
-		"last_contributed": "2026-01-07T13:25:41Z"
+		"last_contributed": "2026-02-23T09:18:28Z"
 	},
 	{
 		"url": "https://github.com/ctxis/VulnerableXsltConsoleApplication",
@@ -3209,7 +3209,7 @@
 		],
 		"author": "OWASP",
 		"badge": "WebGoat/WebGoat",
-		"stars": 8932,
+		"stars": 8935,
 		"last_contributed": "2026-02-08T19:17:37Z"
 	},
 	{
@@ -3277,7 +3277,7 @@
 		"author": "Omar Santos",
 		"notes": "This is a learning resource created by Omar Santos (@santosomar) for different Cybersecurity training sessions. It includes many intentionally vulnerable applications running in Docker containers and thousands of cybersecurity resources.",
 		"badge": "The-Art-of-Hacking/websploit",
-		"stars": 447,
+		"stars": 450,
 		"last_contributed": "2026-01-16T05:52:38Z"
 	},
 	{
@@ -3344,8 +3344,8 @@
 		"author": "Jeroen Willemsen (@commjoen), Ben de Haan (@bendehaan), Nanne Baars (@nbaars)",
 		"notes": "OWASP WrongSecrets is a vulnerable app used to show how to not use secrets.",
 		"badge": "OWASP/wrongsecrets",
-		"stars": 1394,
-		"last_contributed": "2026-02-03T20:52:04Z"
+		"stars": 1395,
+		"last_contributed": "2026-02-23T06:24:48Z"
 	},
 	{
 		"url": "https://sourceforge.net/projects/xxe/",
