@@ -22,10 +22,6 @@ EXCLUDE = {
     "github-actions[bot]",
     "Copilot",
     "OWASPFoundation",
-    # Authors
-    "kingthorin",
-    "psiinon",
-    "raulsiles",
 }
 
 
