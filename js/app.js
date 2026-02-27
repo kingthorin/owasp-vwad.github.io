@@ -151,7 +151,6 @@
   var REF_ICON_MAP = {
     guide: 'guide',
     download: 'download',
-    downloads: 'download',
     docker: 'docker',
     announcement: 'announcement',
     live: 'live',
