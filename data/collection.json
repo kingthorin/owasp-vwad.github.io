@@ -538,7 +538,7 @@
 		],
 		"references": [
 			{
-				"name": "downloads",
+				"name": "download",
 				"url": "https://github.com/OWASP/crAPI"
 			}
 		],
@@ -3187,10 +3187,6 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "https://codeload.github.com/OWASP/railsgoat/zip/main"
-			},
-			{
-				"name": "downloads",
 				"url": "https://railsgoat.cktricky.com/getting_started.html"
 			}
 		],
@@ -4088,7 +4084,7 @@
 		"notes": "mvn clean package; docker build -t zaproxy/wavsep . ; docker run -p 8080:8080 -p 3306:3306 zaproxy/wavsep. http://localhost:8080/wavsep/.",
 		"references": [
 			{
-				"name": "downloads",
+				"name": "download",
 				"url": "https://github.com/sectooladdict/wavsep/wiki"
 			},
 			{
@@ -4205,7 +4201,7 @@
 				"url": "https://github.com/OWASP/OWASPWebGoatPHP"
 			},
 			{
-				"name": "downloads",
+				"name": "download",
 				"url": "https://github.com/OWASP/OWASPWebGoatPHP/blob/master/README.md"
 			}
 		],
@@ -4314,7 +4310,7 @@
 				"url": "http://www.webguvenligi.org/projeler/wivet"
 			},
 			{
-				"name": "downloads",
+				"name": "download",
 				"url": "https://code.google.com/archive/p/wivet/downloads"
 			}
 		],
