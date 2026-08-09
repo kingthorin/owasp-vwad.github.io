@@ -1,9 +1,9 @@
 {
-	"updated": "2026-08-04T00:31:36Z",
+	"updated": "2026-08-09T02:28:35Z",
 	"contributors": [
 		{
 			"login": "kingthorin",
-			"contributions": 370
+			"contributions": 372
 		},
 		{
 			"login": "bkimminich",
@@ -90,6 +90,10 @@
 			"contributions": 1
 		},
 		{
+			"login": "imhego",
+			"contributions": 1
+		},
+		{
 			"login": "interference-security",
 			"contributions": 1
 		},
@@ -135,6 +139,10 @@
 		},
 		{
 			"login": "pentesttools-com",
+			"contributions": 1
+		},
+		{
+			"login": "r0path",
 			"contributions": 1
 		},
 		{
