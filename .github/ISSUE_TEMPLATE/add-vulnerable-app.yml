@@ -1,7 +1,7 @@
 name: Add vulnerable app
 description: Let us know about a vulnerable app that we should include.
 title: "Add - "
-labels: []
+labels: ["new app"]
 body:
   - type: markdown
     attributes:
