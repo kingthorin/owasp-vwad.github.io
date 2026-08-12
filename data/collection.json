@@ -1297,6 +1297,35 @@
 		"last_contributed": "2020-11-15T13:24:21Z"
 	},
 	{
+		"url": "https://github.com/makarov05bm/dvnp",
+		"name": "Damn Vulnerable NGINX Proxy (DVNP)",
+		"slug": "damn-vulnerable-nginx-proxy-dvnp",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"nginx",
+			"Python",
+			"Flask",
+			"Docker"
+		],
+		"author": "Oussama Messaoudi",
+		"description": "Self-contained web security lab that simulates a multi-host NGINX reverse-proxy environment. Connects an attacker to multiple virtual hosts, backend Flask applications, and shared resources, providing a realistic environment for exploring chained web and reverse-proxy misconfigurations.",
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://blog.oussmess.me/posts/damn-vulnerable-nginx-proxy-full-guide/"
+			}
+		],
+		"badge": "makarov05bm/dvnp",
+		"categories": [
+			"code-review",
+			"guided-lessons",
+			"free-form"
+		]
+	},
+	{
 		"url": "https://github.com/isp1r0/DVNA",
 		"name": "Damn Vulnerable Node Application - DVNA",
 		"slug": "damn-vulnerable-node-application-dvna",
