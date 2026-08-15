@@ -2789,6 +2789,29 @@
 		]
 	},
 	{
+		"url": "https://github.com/SpiderLabs/MCIR",
+		"name": "Magical Code Injection Rainbow (MCIR)",
+		"slug": "mcir",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"description": "A framework for building configurable vulnerability testbeds. Successor to SQLol, CryptOMG, and other SpiderLabs tools.",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://codeload.github.com/SpiderLabs/MCIR/zip/refs/heads/master"
+			}
+		],
+		"badge": "SpiderLabs/MCIR",
+		"categories": [
+			"free-form",
+			"single-player"
+		]
+	},
+	{
 		"url": "https://github.com/cschneider4711/Marathon",
 		"name": "Marathon",
 		"slug": "marathon",
@@ -4021,32 +4044,6 @@
 		"badge": "Audi-1/sqli-labs",
 		"stars": 5828,
 		"last_contributed": "2014-10-31T19:10:23Z",
-		"categories": [
-			"free-form",
-			"single-player"
-		]
-	},
-	{
-		"url": "https://github.com/SpiderLabs/SQLol",
-		"name": "SQLol",
-		"slug": "sqlol",
-		"collection": [
-			"offline"
-		],
-		"technology": [
-			"PHP"
-		],
-		"description": "SQL injection test application. Now part of the Magical Code Injection Rainbow (MCIR) framework; standalone version no longer maintained.",
-		"notes": "See http://github.com/SpiderLabs/MCIR for maintained version.",
-		"references": [
-			{
-				"name": "download",
-				"url": "https://codeload.github.com/SpiderLabs/SQLol/zip/refs/heads/master"
-			}
-		],
-		"badge": "SpiderLabs/SQLol",
-		"stars": 122,
-		"last_contributed": "2013-07-19T21:15:43Z",
 		"categories": [
 			"free-form",
 			"single-player"
