@@ -435,7 +435,7 @@
 		],
 		"author": "NeuraLegion",
 		"badge": "NeuraLegion/brokencrystals",
-		"stars": 199,
+		"stars": 200,
 		"last_contributed": "2026-08-12T07:30:03Z",
 		"categories": [
 			"free-form",
@@ -1325,7 +1325,7 @@
 			"guided-lessons",
 			"free-form"
 		],
-		"stars": 8,
+		"stars": 9,
 		"last_contributed": "2026-08-15T08:41:09Z"
 	},
 	{
@@ -1558,7 +1558,7 @@
 		"description": "A PHP/MariaDB web application that is damn vulnerable. Aids security professionals to test their skills and tools in a legal environment, helps web developers understand securing web applications, and aids students and teachers to learn about web application security in a controlled environment. Practice common web vulnerabilities with various difficulty levels.",
 		"notes": "Do not deploy to Internet-facing servers. Recommended: run in a VM with NAT networking (e.g. VirtualBox, VMware).",
 		"badge": "ethicalhack3r/DVWA",
-		"stars": 13498,
+		"stars": 13499,
 		"last_contributed": "2026-08-07T11:08:31Z",
 		"categories": [
 			"free-form",
@@ -1635,7 +1635,7 @@
 		"author": "SunSec",
 		"badge": "SunWeb3Sec/DeFiHackLabs",
 		"notes": "Reproduce DeFi hacked incidents using Foundry.",
-		"stars": 6742,
+		"stars": 6743,
 		"last_contributed": "2026-08-11T03:01:13Z",
 		"categories": [
 			"free-form",
@@ -2713,7 +2713,7 @@
 		"author": "Kubernetes Security Team",
 		"description": "Interactive workshop covering Kubernetes security best practices",
 		"badge": "madhuakula/kubernetes-goat",
-		"stars": 5746,
+		"stars": 5747,
 		"last_contributed": "2026-04-16T22:11:11Z",
 		"categories": [
 			"free-form",
@@ -2810,7 +2810,9 @@
 		"categories": [
 			"free-form",
 			"single-player"
-		]
+		],
+		"stars": 446,
+		"last_contributed": "2020-08-07T12:44:09Z"
 	},
 	{
 		"url": "https://github.com/cschneider4711/Marathon",
@@ -2901,7 +2903,7 @@
 		"notes": "Downloads: GitHub OWASP/mastg Crackmes (Android UnCrackable L1–L4, DRM; iOS UnCrackable L1–L2). Overview: https://mas.owasp.org/crackmes/.",
 		"author": "OWASP",
 		"badge": "OWASP/owasp-mstg",
-		"stars": 13117,
+		"stars": 13116,
 		"last_contributed": "2026-08-03T10:23:50Z",
 		"categories": [
 			"free-form",
@@ -3175,7 +3177,7 @@
 		"notes": "Intentionally vulnerable e-commerce application with CTF challenges. Covers OWASP Top 10, API security flaws, and modern frontend attack vectors. Quick setup via npx create-oss-store.",
 		"badge": "kOaDT/oss-oopssec-store",
 		"stars": 34,
-		"last_contributed": "2026-08-14T22:42:40Z"
+		"last_contributed": "2026-08-15T21:50:55Z"
 	},
 	{
 		"url": "https://openvaultbank.com/",
@@ -3323,7 +3325,7 @@
 		"author": "OWASP",
 		"description": "Probably the most modern and sophisticated insecure web application. For use in security trainings, awareness demos, CTFs and as a guinea pig for security tools. Encompasses vulnerabilities from the entire OWASP Top Ten along with many other security flaws found in real-world applications. Written in Node.js, Express and Angular.",
 		"badge": "juice-shop/juice-shop",
-		"stars": 13669,
+		"stars": 13670,
 		"last_contributed": "2026-08-10T21:37:49Z",
 		"categories": [
 			"ctf",
@@ -3386,7 +3388,7 @@
 		],
 		"author": "Karan Preet Singh Sasan",
 		"badge": "SasanLabs/VulnerableApp",
-		"stars": 452,
+		"stars": 455,
 		"last_contributed": "2026-08-15T05:30:38Z",
 		"categories": [
 			"scanner-test",
@@ -3873,7 +3875,7 @@
 		"author": "GitHub Security Lab",
 		"description": "A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.",
 		"badge": "skills/secure-code-game",
-		"stars": 2806,
+		"stars": 2808,
 		"last_contributed": "2026-08-13T07:54:26Z",
 		"categories": [
 			"free-form",
@@ -4213,7 +4215,7 @@
 		],
 		"author": "erev0s",
 		"badge": "erev0s/VAmPI",
-		"stars": 1303,
+		"stars": 1305,
 		"last_contributed": "2026-04-07T20:02:39Z",
 		"categories": [
 			"free-form",
