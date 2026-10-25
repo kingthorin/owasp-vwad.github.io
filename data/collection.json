@@ -693,6 +693,44 @@
 		]
 	},
 	{
+		"url": "https://github.com/commixproject/commix-testbed",
+		"name": "commix-testbed",
+		"slug": "commix-testbed",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"Python",
+			"PHP",
+			"Ruby",
+			"JavaScript",
+			"Docker"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/commixproject/commix/wiki"
+			},
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/commixproject/commix-testbed"
+			}
+		],
+		"notes": "These pages execute whatever they are given. Run the testbed locally and keep it off any network you do not control.It is a target, not a demo you leave running.",
+		"author": "Anastasios Stasinopoulos",
+		"description": "commix-testbed is a collection of deliberately vulnerable web pages for learning about and testing command and code injection vulnerabilities.",
+		"badge": "commixproject/commix-testbed",
+		"stars": 188,
+		"last_contributed": "2026-10-17T05:31:38Z",
+		"categories": [
+			"ctf",
+			"single-player",
+			"free-form",
+			"scanner-test"
+		]
+	},
+	{
 		"url": "https://owasp.org/www-project-crapi/",
 		"name": "crAPI",
 		"slug": "crapi",
